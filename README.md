@@ -11,7 +11,7 @@ The first line is the total flow of the network. Then, each edge that is part of
 First line of the output has the cost of the longest path, and the second line prints the path itself.
 
 sample input:
-6 9 
+6 9 \n
 0 1 20
 0 2 10
 1 2 10
@@ -23,5 +23,5 @@ sample input:
 4 5 20
 
 sample output:
-70
+70 \n
 0 1 3 2 4 5
