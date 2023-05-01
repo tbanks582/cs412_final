@@ -1,5 +1,6 @@
 import random
 from math import exp
+import time
 
 def main():
     num_vertices, num_edges = [int(x) for x in input().split()]
@@ -10,30 +11,39 @@ def main():
         u, v, w = [int(x) for x in input().split()]
         graph[u].add((v,w))
 
-    longest = -1
-
+    longest_len = -1
+    longest = []
+    start = time.time_ns()
     for _ in range(1000):
         path = generate_random_path(graph, None)
         length = calculate_path_length(graph, path)
 
-        if length > longest:
-            longest = length
-        
-        if len(path) < 2:
-            continue
-        annealed_path = annealing_longest_path(graph, 1000, .80, 100, path)
-        annealed_length = calculate_path_length(graph, annealed_path)
+        if length > longest_len:
+            longest_len = length
         print("Orignial Path: ", path)
         print("Original Path Length: ", length)
-        if path != annealed_path:
-            print("Better Path found: ", annealed_path)
-            print("Better Path Length: ", annealed_length)
+        if len(path) < 2:
+                continue
+        for _ in range(1000):
+            annealed_path = annealing_longest_path(graph, 1000, .80, 100, path) 
+            annealed_path += generate_random_path(graph, annealed_path[-1])[1::]
+            # print(annealed_path)
+            annealed_length = calculate_path_length(graph, annealed_path)
+            # print('length = ', length, 'annealed length = ', annealed_length)
 
-            if annealed_length > longest:
-                longest = annealed_length
-        print("\n")
+            if path != annealed_path:
+                print("Better Path found: ", annealed_path)
+                print("Better Path Length: ", annealed_length)
+
+                if annealed_length > longest_len:
+                    longest_len = annealed_length
+                    longest = annealed_path
+            print("\n")
     print("Longest Path: ", longest)
-        
+    print("Path Cost: ", longest_len)
+    
+    end = time.time_ns()
+    print('time elapsed: ' + str(end-start) + ' NS')
 
 
 # Returns a random path of random length from the given graph

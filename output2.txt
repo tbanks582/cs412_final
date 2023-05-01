@@ -1,0 +1,2961 @@
+Orignial Path:  [8552, 8445, 4535, 6386, 2963, 1293]
+Original Path Length:  231
+
+
+Orignial Path:  [1495, 5034]
+Original Path Length:  6
+
+
+Orignial Path:  [4533, 5494, 1939]
+Original Path Length:  102
+Better Path found:  [4533, 5494, 5753]
+Better Path Length:  154
+
+
+Orignial Path:  [6655, 6476, 6574]
+Original Path Length:  183
+
+
+Orignial Path:  [5315, 3190, 985, 2815]
+Original Path Length:  186
+
+
+Orignial Path:  [1055, 5060, 6232, 427, 8920]
+Original Path Length:  235
+Better Path found:  [6232, 7812, 8262, 9000, 8533]
+Better Path Length:  299
+
+
+Orignial Path:  [8956, 4501]
+Original Path Length:  52
+
+
+Orignial Path:  [5422, 7547]
+Original Path Length:  94
+
+
+Orignial Path:  [4275, 1869]
+Original Path Length:  2
+
+
+Orignial Path:  [1112, 6659, 349, 7190, 7921, 4931, 4920, 5099]
+Original Path Length:  428
+
+
+Orignial Path:  [5046, 6110, 939, 6549, 3605, 6319, 4054]
+Original Path Length:  322
+
+
+Orignial Path:  [5898, 8539]
+Original Path Length:  59
+
+
+Orignial Path:  [6778, 8638, 864]
+Original Path Length:  107
+
+
+Orignial Path:  [2683, 7334, 5377]
+Original Path Length:  162
+Better Path found:  [2683, 7334, 2282]
+Better Path Length:  180
+
+
+Orignial Path:  [4158, 2010, 2697, 1885, 6611, 3312]
+Original Path Length:  301
+
+
+Orignial Path:  [7226, 6207, 400, 8670, 7785, 7778, 2140, 1033, 3330]
+Original Path Length:  456
+
+
+Orignial Path:  [3246, 7426, 3373]
+Original Path Length:  110
+
+
+Orignial Path:  [4992, 5578, 6173, 1517, 4311, 5474, 6188, 5396]
+Original Path Length:  383
+
+
+Orignial Path:  [6307, 2343, 7830, 4746, 5291, 6150]
+Original Path Length:  177
+
+
+Orignial Path:  [3903, 189, 4667]
+Original Path Length:  105
+Better Path found:  [3903, 189, 1972]
+Better Path Length:  109
+
+
+Orignial Path:  [2866, 272]
+Original Path Length:  46
+
+
+Orignial Path:  [4690, 5508]
+Original Path Length:  18
+
+
+Orignial Path:  [7892, 5946, 4209, 7898]
+Original Path Length:  194
+Better Path found:  [7892, 5946, 4209, 7295]
+Better Path Length:  277
+
+
+Orignial Path:  [4728, 3347, 1121, 5776, 1727]
+Original Path Length:  278
+Better Path found:  [3347, 1121, 1382, 4678, 2268, 7571, 4261, 3611]
+Better Path Length:  371
+
+
+Orignial Path:  [2250, 2952, 8922, 3882, 2324]
+Original Path Length:  162
+
+
+Orignial Path:  [2147, 8533]
+Original Path Length:  86
+
+
+Orignial Path:  [5525, 2610, 7552, 5337, 1390, 4422, 6839, 3645, 5151, 1393, 2527, 1282]
+Original Path Length:  516
+
+
+Orignial Path:  [5296, 2474, 5398, 1714, 3715, 3973, 859, 5073, 3645, 5151, 1393, 4793, 7699]
+Original Path Length:  685
+
+
+Orignial Path:  [922, 3185, 493, 1347]
+Original Path Length:  103
+
+
+Orignial Path:  [5547, 3639, 5660, 3417]
+Original Path Length:  243
+
+
+Orignial Path:  [5875, 7898]
+Original Path Length:  30
+
+
+Orignial Path:  [6575, 3756, 4875, 5350, 8402, 4112, 7316, 2145, 5916, 5697, 7443]
+Original Path Length:  442
+
+
+Orignial Path:  [5664, 6665]
+Original Path Length:  99
+
+
+Orignial Path:  [3300, 3442]
+Original Path Length:  85
+
+
+Orignial Path:  [1146, 834, 7628, 5280, 5260]
+Original Path Length:  211
+
+
+Orignial Path:  [7435, 7176, 6452, 3620, 5284, 1955, 7429]
+Original Path Length:  270
+Better Path found:  [7435, 7176, 6452, 3620, 5284, 1955, 1236]
+Better Path Length:  305
+
+
+Orignial Path:  [1094, 7411, 1996]
+Original Path Length:  79
+
+
+Orignial Path:  [6828, 2355, 1048, 5, 6786, 2657, 3096, 2738, 1724, 3472, 8428]
+Original Path Length:  593
+
+
+Orignial Path:  [7519, 6160]
+Original Path Length:  70
+
+
+Orignial Path:  [5337, 3174, 5550, 1516]
+Original Path Length:  185
+
+
+Orignial Path:  [5261, 8363, 3593, 3095, 8696]
+Original Path Length:  220
+
+
+Orignial Path:  [507, 25]
+Original Path Length:  47
+
+
+Orignial Path:  [741, 3518, 3273, 4394, 7419]
+Original Path Length:  188
+
+
+Orignial Path:  [1645, 4136, 4019]
+Original Path Length:  168
+
+
+Orignial Path:  [1432, 2034, 3515, 571, 7670]
+Original Path Length:  232
+
+
+Orignial Path:  [2652, 2174, 8983]
+Original Path Length:  99
+
+
+Orignial Path:  [5289, 4429, 7823, 3105, 8594, 4330, 4586, 1267]
+Original Path Length:  525
+
+
+Orignial Path:  [4234, 1504, 3467, 2528, 1515, 731]
+Original Path Length:  267
+
+
+Orignial Path:  [5291, 6150]
+Original Path Length:  47
+
+
+Orignial Path:  [4091, 4984, 7179, 5799, 6581, 3014, 1548, 6132, 1564]
+Original Path Length:  434
+
+
+Orignial Path:  [3885, 4112, 7316, 2145, 5916, 5697, 7443]
+Original Path Length:  311
+
+
+Orignial Path:  [6209, 2610, 7552, 5337, 3174, 4922]
+Original Path Length:  296
+Better Path found:  [5729, 8407, 4051, 8176, 5458, 3073, 7687, 1657, 5534, 5749, 1085, 1490]
+Better Path Length:  644
+
+
+Orignial Path:  [1190, 58, 1225, 3035]
+Original Path Length:  142
+
+
+Orignial Path:  [2388, 7408, 106, 7716, 8328, 5121, 1428, 3888, 7078, 1171]
+Original Path Length:  441
+
+
+Orignial Path:  [5192, 1480, 8594, 6235, 5781]
+Original Path Length:  143
+Better Path found:  [8594, 4330, 4586, 1267]
+Better Path Length:  209
+
+
+Orignial Path:  [2748, 5950]
+Original Path Length:  64
+
+
+Orignial Path:  [7010, 1861, 5965, 7621, 3177]
+Original Path Length:  196
+
+
+Orignial Path:  [3864, 8620]
+Original Path Length:  95
+
+
+Orignial Path:  [3631, 4743, 2954, 171]
+Original Path Length:  121
+
+
+Orignial Path:  [5156, 3540, 7550, 5610, 1614, 6040, 8439, 1427, 6000, 1607]
+Original Path Length:  380
+
+
+Orignial Path:  [3674, 3659, 4641, 8776]
+Original Path Length:  191
+
+
+Orignial Path:  [1991, 1527, 3687, 4061]
+Original Path Length:  203
+
+
+Orignial Path:  [5524, 2508, 3994, 332, 3153]
+Original Path Length:  168
+
+
+Orignial Path:  [5007, 5299, 5269]
+Original Path Length:  81
+Better Path found:  [5007, 5299, 1001]
+Better Path Length:  104
+
+
+Orignial Path:  [7805, 6673, 7728]
+Original Path Length:  68
+Better Path found:  [7805, 6673, 6247]
+Better Path Length:  110
+
+
+Orignial Path:  [2543, 1067]
+Original Path Length:  55
+
+
+Orignial Path:  [5381, 545, 2493]
+Original Path Length:  87
+
+
+Orignial Path:  [8266, 608, 2688]
+Original Path Length:  137
+
+
+Orignial Path:  [1409, 193, 1812]
+Original Path Length:  138
+
+
+Orignial Path:  [1783, 3267]
+Original Path Length:  33
+
+
+Orignial Path:  [3544, 2623]
+Original Path Length:  99
+
+
+Orignial Path:  [298, 2285, 4089, 7420]
+Original Path Length:  219
+
+
+Orignial Path:  [6918, 2845]
+Original Path Length:  12
+
+
+Orignial Path:  [4328, 308]
+Original Path Length:  24
+
+
+Orignial Path:  [4380, 6896, 8295]
+Original Path Length:  76
+
+
+Orignial Path:  [7756, 1880]
+Original Path Length:  52
+
+
+Orignial Path:  [6055, 2482]
+Original Path Length:  27
+
+
+Orignial Path:  [266, 2837, 5953]
+Original Path Length:  33
+
+
+Orignial Path:  [6407, 45, 8246, 4915]
+Original Path Length:  126
+
+
+Orignial Path:  [3133, 8879, 8835]
+Original Path Length:  95
+Better Path found:  [3133, 8879, 6686]
+Better Path Length:  121
+
+
+Orignial Path:  [441, 6706]
+Original Path Length:  41
+
+
+Orignial Path:  [6792, 704, 4846, 5930, 7660]
+Original Path Length:  152
+
+
+Orignial Path:  [1078, 8536]
+Original Path Length:  87
+
+
+Orignial Path:  [3924, 1350]
+Original Path Length:  14
+
+
+Orignial Path:  [3344, 7786, 1044, 999]
+Original Path Length:  161
+
+
+Orignial Path:  [1242, 6531, 2994]
+Original Path Length:  91
+
+
+Orignial Path:  [6945, 4602, 1089, 6540, 2129, 1801, 458]
+Original Path Length:  309
+
+
+Orignial Path:  [1097, 6260]
+Original Path Length:  26
+
+
+Orignial Path:  [2021, 6619, 5581, 8658]
+Original Path Length:  234
+
+
+Orignial Path:  [7303, 2857, 5165]
+Original Path Length:  52
+
+
+Orignial Path:  [8392, 7772]
+Original Path Length:  49
+
+
+Orignial Path:  [3569, 2106, 1962, 8072]
+Original Path Length:  58
+
+
+Orignial Path:  [1500, 8250, 880]
+Original Path Length:  120
+Better Path found:  [1500, 8250, 6292]
+Better Path Length:  124
+
+
+Orignial Path:  [5386, 5997]
+Original Path Length:  6
+
+
+Orignial Path:  [1539, 3005, 6244]
+Original Path Length:  64
+
+
+Orignial Path:  [4976, 1919, 7635, 7977, 118, 5991, 8323, 6229, 3772, 4885, 7577, 5586, 6482, 8858, 2308, 1931, 7011]
+Original Path Length:  835
+
+
+Orignial Path:  [3597, 8553, 5379]
+Original Path Length:  85
+Better Path found:  [3597, 8553, 6188]
+Better Path Length:  136
+
+
+Orignial Path:  [6802, 3279, 8843, 7718, 740]
+Original Path Length:  179
+
+
+Orignial Path:  [2619, 7694, 5771, 1004, 7162, 6614, 7374]
+Original Path Length:  320
+
+
+Orignial Path:  [2014, 3341, 6231, 196, 3051, 724, 1271, 8909]
+Original Path Length:  355
+
+
+Orignial Path:  [6998, 8504, 4314]
+Original Path Length:  130
+
+
+Orignial Path:  [3126, 8094, 940, 2414]
+Original Path Length:  122
+
+
+Orignial Path:  [6232, 7812, 8262, 2011, 6964, 2993, 597, 7430, 6574]
+Original Path Length:  423
+
+
+Orignial Path:  [8481, 4262, 7304, 6019, 1376, 7986, 3195]
+Original Path Length:  222
+Better Path found:  [7304, 2132, 8653, 6745]
+Better Path Length:  248
+
+
+Orignial Path:  [3335, 6456]
+Original Path Length:  51
+
+
+Orignial Path:  [3151, 2720, 3408, 4102, 2788]
+Original Path Length:  189
+Better Path found:  [3408, 1427, 6000, 1607]
+Better Path Length:  209
+
+
+Orignial Path:  [2714, 3197, 2056, 3236, 2245, 6135, 1794, 1837]
+Original Path Length:  427
+
+
+Orignial Path:  [5144, 5117, 4682, 4174, 7987, 5637, 1321]
+Original Path Length:  489
+
+
+Orignial Path:  [3698, 2931, 443, 2017]
+Original Path Length:  206
+
+
+Orignial Path:  [6277, 6758, 8414, 6253, 3530]
+Original Path Length:  220
+
+
+Orignial Path:  [1124, 3121, 6759, 1032, 2358, 7380]
+Original Path Length:  264
+
+
+Orignial Path:  [4657, 6755, 7812, 8262, 9000, 8533]
+Original Path Length:  321
+
+
+Orignial Path:  [2014, 3341, 6231, 1449]
+Original Path Length:  184
+Better Path found:  [3341, 6231, 196, 3051, 724, 1271, 8909]
+Better Path Length:  272
+
+
+Orignial Path:  [1911, 3849]
+Original Path Length:  60
+
+
+Orignial Path:  [2181, 3149, 8940, 8804, 4481, 8837]
+Original Path Length:  184
+
+
+Orignial Path:  [7920, 5746, 123, 4144, 8233, 2228, 4112, 833]
+Original Path Length:  391
+
+
+Orignial Path:  [1513, 6957]
+Original Path Length:  63
+
+
+Orignial Path:  [3402, 3415, 3736, 3054]
+Original Path Length:  183
+Better Path found:  [3415, 2326, 6140, 587, 3374, 748, 7779, 3169, 2119, 3095, 1270]
+Better Path Length:  418
+
+
+Orignial Path:  [6043, 4306]
+Original Path Length:  79
+
+
+Orignial Path:  [356, 3027, 8027, 7326, 5547, 3639, 5660, 3417]
+Original Path Length:  470
+
+
+Orignial Path:  [7180, 7103]
+Original Path Length:  59
+
+
+Orignial Path:  [7005, 2543, 1067]
+Original Path Length:  125
+
+
+Orignial Path:  [7785, 7778, 2140, 1033, 3330]
+Original Path Length:  238
+
+
+Orignial Path:  [5585, 4347, 8260, 7717, 1904, 4417]
+Original Path Length:  138
+
+
+Orignial Path:  [4725, 2019]
+Original Path Length:  60
+
+
+Orignial Path:  [8793, 3706]
+Original Path Length:  55
+
+
+Orignial Path:  [8515, 2460, 246, 8544, 1320]
+Original Path Length:  236
+
+
+Orignial Path:  [8913, 5820]
+Original Path Length:  91
+
+
+Orignial Path:  [5253, 4355, 7613, 6875]
+Original Path Length:  176
+Better Path found:  [4355, 7613, 3266, 93]
+Better Path Length:  189
+
+
+Orignial Path:  [8895, 7760, 3570, 7132]
+Original Path Length:  201
+
+
+Orignial Path:  [5088, 8279, 2158]
+Original Path Length:  131
+
+
+Orignial Path:  [1983, 5464]
+Original Path Length:  65
+
+
+Orignial Path:  [523, 966, 1341]
+Original Path Length:  80
+
+
+Orignial Path:  [6711, 2137, 3961, 5323]
+Original Path Length:  202
+
+
+Orignial Path:  [6486, 6223]
+Original Path Length:  99
+
+
+Orignial Path:  [2148, 8628, 2843, 2295]
+Original Path Length:  267
+
+
+Orignial Path:  [4619, 1317, 6132, 1564]
+Original Path Length:  195
+
+
+Orignial Path:  [897, 5388, 2778, 399]
+Original Path Length:  98
+
+
+Orignial Path:  [4534, 7079, 2053, 6609]
+Original Path Length:  214
+
+
+Orignial Path:  [360, 6950, 4382, 6102]
+Original Path Length:  125
+
+
+Orignial Path:  [4784, 4105, 5748, 4674, 5934]
+Original Path Length:  233
+
+
+Orignial Path:  [1873, 7520, 508]
+Original Path Length:  99
+
+
+Orignial Path:  [3968, 6526, 5164, 2505, 5075, 2481, 3547, 1007, 6549, 3605, 6319, 4054]
+Original Path Length:  543
+
+
+Orignial Path:  [4360, 281]
+Original Path Length:  60
+
+
+Orignial Path:  [4932, 912, 277]
+Original Path Length:  34
+
+
+Orignial Path:  [5640, 1347]
+Original Path Length:  46
+
+
+Orignial Path:  [5359, 8140]
+Original Path Length:  6
+
+
+Orignial Path:  [1479, 2693, 7274, 1438, 2258, 5784]
+Original Path Length:  211
+
+
+Orignial Path:  [1578, 4510, 5344, 7437, 2406, 1814, 8082, 5660, 3417]
+Original Path Length:  615
+
+
+Orignial Path:  [631, 2408, 6238]
+Original Path Length:  94
+Better Path found:  [631, 2408, 8171]
+Better Path Length:  124
+
+
+Orignial Path:  [583, 6657, 260, 1038, 5766]
+Original Path Length:  135
+
+
+Orignial Path:  [5640, 1347]
+Original Path Length:  46
+
+
+Orignial Path:  [7376, 3103]
+Original Path Length:  43
+
+
+Orignial Path:  [8320, 7825, 2135, 5216, 1363]
+Original Path Length:  110
+
+
+Orignial Path:  [3950, 5648]
+Original Path Length:  93
+
+
+Orignial Path:  [5299, 1001, 7810]
+Original Path Length:  136
+
+
+Orignial Path:  [5334, 173]
+Original Path Length:  11
+
+
+Orignial Path:  [6453, 6057]
+Original Path Length:  17
+
+
+Orignial Path:  [8403, 4899, 1202, 4945, 7590]
+Original Path Length:  140
+
+
+Orignial Path:  [7752, 7152, 7515]
+Original Path Length:  93
+
+
+Orignial Path:  [1758, 154]
+Original Path Length:  45
+
+
+Orignial Path:  [7141, 7072, 6623, 5022]
+Original Path Length:  171
+
+
+Orignial Path:  [3166, 2079]
+Original Path Length:  35
+
+
+Orignial Path:  [2224, 1805]
+Original Path Length:  20
+
+
+Orignial Path:  [1796, 546, 8723]
+Original Path Length:  64
+
+
+Orignial Path:  [1663, 8176, 5458, 3073, 7687, 1657, 5534, 51]
+Original Path Length:  310
+
+
+Orignial Path:  [1960, 6846]
+Original Path Length:  96
+
+
+Orignial Path:  [5244, 5971, 6571, 5089, 1265, 740]
+Original Path Length:  284
+
+
+Orignial Path:  [7136, 4004, 1894, 8208, 8710]
+Original Path Length:  208
+
+
+Orignial Path:  [8850, 4817, 1689]
+Original Path Length:  41
+
+
+Orignial Path:  [8150, 6147]
+Original Path Length:  49
+
+
+Orignial Path:  [7776, 2245, 6135, 5691, 722, 5515, 3125, 2502, 8429, 5189, 8046]
+Original Path Length:  526
+
+
+Orignial Path:  [259, 4838, 4027, 8504, 4314]
+Original Path Length:  220
+
+
+Orignial Path:  [6989, 6898]
+Original Path Length:  90
+
+
+Orignial Path:  [7068, 4328, 308]
+Original Path Length:  29
+Better Path found:  [7068, 4328, 7007]
+Better Path Length:  93
+
+
+Orignial Path:  [6726, 8871, 5785]
+Original Path Length:  85
+Better Path found:  [6726, 8871, 1325]
+Better Path Length:  126
+
+
+Orignial Path:  [267, 6315, 6933, 7310, 8540, 2063, 722, 2012]
+Original Path Length:  345
+
+
+Orignial Path:  [4415, 7125, 6142]
+Original Path Length:  92
+
+
+Orignial Path:  [7343, 7266, 1032, 2358, 7380]
+Original Path Length:  228
+
+
+Orignial Path:  [3419, 7142, 1446, 2358, 7380]
+Original Path Length:  250
+
+
+Orignial Path:  [1561, 4893, 1086, 1333, 8947]
+Original Path Length:  189
+Better Path found:  [2022, 4163, 6316, 7343, 7266, 1032, 2358, 7380]
+Better Path Length:  349
+
+
+Orignial Path:  [8597, 630, 7935]
+Original Path Length:  137
+
+
+Orignial Path:  [29, 2572]
+Original Path Length:  45
+
+
+Orignial Path:  [5611, 7098, 6299]
+Original Path Length:  94
+
+
+Orignial Path:  [3681, 6708]
+Original Path Length:  64
+
+
+Orignial Path:  [7301, 4112, 833]
+Original Path Length:  102
+
+
+Orignial Path:  [2320, 828, 452]
+Original Path Length:  109
+
+
+Orignial Path:  [5094, 5245, 843, 4790]
+Original Path Length:  282
+
+
+Orignial Path:  [457, 8320, 7825, 8481, 1940, 3974, 1640, 8848, 3015, 1353, 2752, 6217, 7642, 5383, 8303]
+Original Path Length:  597
+
+
+Orignial Path:  [8545, 4260]
+Original Path Length:  56
+
+
+Orignial Path:  [8424, 510]
+Original Path Length:  4
+
+
+Orignial Path:  [838, 7135]
+Original Path Length:  73
+
+
+Orignial Path:  [7395, 6182, 1888, 493, 1347]
+Original Path Length:  252
+
+
+Orignial Path:  [1749, 1533, 3263]
+Original Path Length:  64
+Better Path found:  [1749, 1533, 7745]
+Better Path Length:  110
+
+
+Orignial Path:  [7997, 3539, 7091, 6895, 434]
+Original Path Length:  226
+
+
+Orignial Path:  [6615, 6360, 7246, 4767, 709, 1906, 8938]
+Original Path Length:  390
+Better Path found:  [709, 1906, 5518, 3300, 8015, 199, 6269, 3229, 432, 7468]
+Better Path Length:  404
+
+
+Orignial Path:  [6274, 4566]
+Original Path Length:  14
+
+
+Orignial Path:  [2775, 160, 4437, 1034]
+Original Path Length:  237
+
+
+Orignial Path:  [1191, 8627]
+Original Path Length:  91
+
+
+Orignial Path:  [1187, 8863, 6591, 1969]
+Original Path Length:  217
+
+
+Orignial Path:  [5332, 6402, 2535, 1937, 3966]
+Original Path Length:  197
+
+
+Orignial Path:  [963, 4234, 1504, 6965, 5345, 1239]
+Original Path Length:  312
+Better Path found:  [1504, 6965, 6064, 4633, 50, 4880, 7577, 5586, 6482, 8858, 2308, 1931, 7733, 3530]
+Better Path Length:  671
+
+
+Orignial Path:  [2408, 8171, 6362]
+Original Path Length:  109
+
+
+Orignial Path:  [3675, 7168, 3457, 7374]
+Original Path Length:  207
+
+
+Orignial Path:  [5094, 2927, 1049, 7615]
+Original Path Length:  149
+Better Path found:  [2927, 2662, 4947]
+Better Path Length:  150
+
+
+Orignial Path:  [8597, 630, 4950, 7421]
+Original Path Length:  154
+
+
+Orignial Path:  [386, 6335, 267, 4539, 6766]
+Original Path Length:  225
+
+
+Orignial Path:  [6129, 3512, 2458, 831, 6777, 1170, 4687, 5040, 1763, 57]
+Original Path Length:  418
+
+
+Orignial Path:  [6177, 4445, 3442]
+Original Path Length:  151
+
+
+Orignial Path:  [61, 5578, 4046]
+Original Path Length:  84
+Better Path found:  [61, 5578, 6173]
+Better Path Length:  141
+
+
+Orignial Path:  [2267, 1922]
+Original Path Length:  52
+
+
+Orignial Path:  [7887, 6643]
+Original Path Length:  56
+
+
+Orignial Path:  [7365, 5795, 3102]
+Original Path Length:  33
+
+
+Orignial Path:  [5615, 128]
+Original Path Length:  47
+
+
+Orignial Path:  [5423, 6951]
+Original Path Length:  75
+
+
+Orignial Path:  [2739, 4483]
+Original Path Length:  17
+
+
+Orignial Path:  [7045, 5356]
+Original Path Length:  56
+
+
+Orignial Path:  [4467, 2301, 8862, 8557, 4872]
+Original Path Length:  222
+Better Path found:  [2301, 8862, 8557, 8184, 8089, 7751, 4906]
+Better Path Length:  262
+
+
+Orignial Path:  [236, 6181, 4033, 1562, 7014, 6788, 6770]
+Original Path Length:  333
+
+
+Orignial Path:  [338, 8376, 7462, 4824]
+Original Path Length:  232
+Better Path found:  [8376, 7462, 4047, 2150, 7832, 5973, 1158, 3031, 4631, 3791, 6294, 2582]
+Better Path Length:  473
+
+
+Orignial Path:  [5276, 4169, 7766, 4674, 5934]
+Original Path Length:  275
+
+
+Orignial Path:  [3378, 8763, 2638, 1972]
+Original Path Length:  217
+
+
+Orignial Path:  [1017, 2024, 7186, 4449, 7599, 7055, 2057, 6308]
+Original Path Length:  249
+
+
+Orignial Path:  [6628, 7963, 5277, 398]
+Original Path Length:  175
+Better Path found:  [6628, 7963, 5277, 4069]
+Better Path Length:  203
+
+
+Orignial Path:  [2248, 2492, 8004, 4007]
+Original Path Length:  167
+Better Path found:  [2492, 8004, 1858, 8293, 6855, 110, 3569, 2106, 1962, 8072]
+Better Path Length:  344
+
+
+Orignial Path:  [5193, 3586, 1259, 2798, 5169, 7170]
+Original Path Length:  210
+
+
+Orignial Path:  [4322, 2783]
+Original Path Length:  20
+
+
+Orignial Path:  [8765, 5721, 3151, 2720, 412, 7504]
+Original Path Length:  317
+Better Path found:  [3151, 2720, 4672, 6724, 4057, 5165]
+Better Path Length:  383
+
+
+Orignial Path:  [4157, 2330]
+Original Path Length:  32
+
+
+Orignial Path:  [3416, 7388, 6199]
+Original Path Length:  26
+
+
+Orignial Path:  [4988, 91]
+Original Path Length:  16
+
+
+Orignial Path:  [8178, 8621, 5664, 6665]
+Original Path Length:  160
+
+
+Orignial Path:  [3903, 189, 4667]
+Original Path Length:  105
+Better Path found:  [3903, 189, 1972]
+Better Path Length:  109
+
+
+Orignial Path:  [1400, 7505]
+Original Path Length:  9
+
+
+Orignial Path:  [5137, 8373, 632, 4595, 5766]
+Original Path Length:  249
+
+
+Orignial Path:  [3403, 8616, 5513, 869]
+Original Path Length:  222
+
+
+Orignial Path:  [2287, 1015]
+Original Path Length:  89
+
+
+Orignial Path:  [8038, 3780]
+Original Path Length:  17
+
+
+Orignial Path:  [7902, 2908, 6469]
+Original Path Length:  76
+Better Path found:  [7902, 2908, 6500]
+Better Path Length:  125
+
+
+Orignial Path:  [4148, 5668, 4620]
+Original Path Length:  110
+
+
+Orignial Path:  [2571, 1488, 6676]
+Original Path Length:  156
+
+
+Orignial Path:  [5431, 5721, 4639]
+Original Path Length:  99
+
+
+Orignial Path:  [4407, 5068]
+Original Path Length:  28
+
+
+Orignial Path:  [3723, 5214]
+Original Path Length:  79
+
+
+Orignial Path:  [4772, 2533, 6732, 4901]
+Original Path Length:  124
+
+
+Orignial Path:  [5602, 1031]
+Original Path Length:  46
+
+
+Orignial Path:  [6155, 7543, 1227]
+Original Path Length:  184
+
+
+Orignial Path:  [6363, 1065, 8946, 1497, 4459, 6196, 6499, 8713, 6653]
+Original Path Length:  476
+
+
+Orignial Path:  [3945, 7720, 3221, 6537, 2724, 3688, 3424, 1160, 2569, 3808]
+Original Path Length:  422
+
+
+Orignial Path:  [40, 4563]
+Original Path Length:  27
+
+
+Orignial Path:  [133, 4485, 6287]
+Original Path Length:  170
+
+
+Orignial Path:  [6306, 2066, 6445, 41, 8658]
+Original Path Length:  124
+Better Path found:  [6445, 41, 670, 5788, 3146]
+Better Path Length:  274
+
+
+Orignial Path:  [7571, 4261, 3611]
+Original Path Length:  154
+
+
+Orignial Path:  [8127, 2765]
+Original Path Length:  2
+
+
+Orignial Path:  [5488, 7710, 4503, 3748, 4580, 4363, 2758, 4030, 6890]
+Original Path Length:  357
+
+
+Orignial Path:  [1183, 3890, 3969]
+Original Path Length:  123
+Better Path found:  [1183, 3890, 3777]
+Better Path Length:  169
+
+
+Orignial Path:  [8887, 4603]
+Original Path Length:  12
+
+
+Orignial Path:  [4251, 7801, 4732, 4415, 4500]
+Original Path Length:  195
+
+
+Orignial Path:  [7074, 8910, 985, 2815]
+Original Path Length:  174
+
+
+Orignial Path:  [1180, 743, 8283, 354, 392, 3941, 1329, 158, 6367, 3557]
+Original Path Length:  665
+
+
+Orignial Path:  [1403, 3212]
+Original Path Length:  77
+
+
+Orignial Path:  [5746, 123, 4144, 8233, 1336, 980, 2452]
+Original Path Length:  278
+
+
+Orignial Path:  [242, 6066, 7647]
+Original Path Length:  172
+
+
+Orignial Path:  [5537, 1254]
+Original Path Length:  76
+
+
+Orignial Path:  [8044, 6743]
+Original Path Length:  47
+
+
+Orignial Path:  [4594, 3490]
+Original Path Length:  36
+
+
+Orignial Path:  [101, 4002, 1584]
+Original Path Length:  55
+
+
+Orignial Path:  [4853, 7429]
+Original Path Length:  3
+
+
+Orignial Path:  [6377, 2336, 1063, 4917]
+Original Path Length:  236
+
+
+Orignial Path:  [6590, 299]
+Original Path Length:  83
+
+
+Orignial Path:  [6187, 4088, 886]
+Original Path Length:  117
+
+
+Orignial Path:  [6748, 7822]
+Original Path Length:  47
+
+
+Orignial Path:  [49, 5537, 1254]
+Original Path Length:  78
+Better Path found:  [49, 5537, 565]
+Better Path Length:  82
+
+
+Orignial Path:  [5072, 7206, 2590, 3907, 5579, 592, 7688]
+Original Path Length:  367
+
+
+Orignial Path:  [7950, 2224, 7325]
+Original Path Length:  113
+
+
+Orignial Path:  [2355, 1048, 5, 6786, 2657, 2930, 2252]
+Original Path Length:  336
+
+
+Orignial Path:  [5291, 6150]
+Original Path Length:  47
+
+
+Orignial Path:  [6397, 6922, 6143, 2513]
+Original Path Length:  187
+
+
+Orignial Path:  [5123, 3619, 5611, 7098, 6166, 6770]
+Original Path Length:  257
+
+
+Orignial Path:  [4576, 5303]
+Original Path Length:  64
+
+
+Orignial Path:  [7896, 1903, 155, 6133]
+Original Path Length:  181
+
+
+Orignial Path:  [4544, 8003, 2330]
+Original Path Length:  121
+
+
+Orignial Path:  [6360, 7246, 4767, 709, 1906, 8938]
+Original Path Length:  365
+
+
+Orignial Path:  [5065, 6920, 8687, 2793, 8819, 920]
+Original Path Length:  253
+
+
+Orignial Path:  [253, 5069, 8908]
+Original Path Length:  68
+
+
+Orignial Path:  [7220, 2847, 3669, 4935, 8024, 2216]
+Original Path Length:  195
+
+
+Orignial Path:  [1310, 4342, 1173]
+Original Path Length:  55
+
+
+Orignial Path:  [4518, 3958]
+Original Path Length:  16
+
+
+Orignial Path:  [2590, 3907, 8848, 3015, 1353, 2752, 6217, 3095, 8696]
+Original Path Length:  363
+
+
+Orignial Path:  [8429, 5189, 8046]
+Original Path Length:  100
+
+
+Orignial Path:  [807, 702]
+Original Path Length:  38
+
+
+Orignial Path:  [6945, 4602, 1089, 6540, 5549]
+Original Path Length:  202
+
+
+Orignial Path:  [2198, 2176, 7597, 6360, 7246, 4767, 709, 1906, 5518, 3300, 3442]
+Original Path Length:  753
+Better Path found:  [7246, 4767, 709, 1906, 5518, 3300, 8015, 199, 5300, 7855, 719, 2971, 4210, 6519]
+Better Path Length:  929
+
+
+Orignial Path:  [4205, 1681, 1590]
+Original Path Length:  51
+
+
+Orignial Path:  [5574, 6463]
+Original Path Length:  84
+
+
+Orignial Path:  [6506, 6970]
+Original Path Length:  64
+
+
+Orignial Path:  [6656, 4766, 6143, 2513]
+Original Path Length:  138
+
+
+Orignial Path:  [5248, 8147, 8025, 4631, 3791, 7099, 6699, 6818, 503, 1644, 1121, 1382, 7711, 7987, 5637, 1321]
+Original Path Length:  816
+
+
+Orignial Path:  [7038, 7693, 3188]
+Original Path Length:  148
+Better Path found:  [7038, 7693, 5640]
+Better Path Length:  149
+
+
+Orignial Path:  [5845, 3316, 263, 4037, 2724, 3688, 7586, 8648]
+Original Path Length:  388
+Better Path found:  [5845, 3316, 263, 4037, 2724, 3688, 7586, 8910]
+Better Path Length:  413
+
+
+Orignial Path:  [4202, 8997, 6344, 1026, 3019]
+Original Path Length:  173
+
+
+Orignial Path:  [2375, 6337, 118, 770, 1239]
+Original Path Length:  188
+Better Path found:  [118, 5807, 6635, 3313, 2347, 3516, 1217, 8456, 7443]
+Better Path Length:  298
+
+
+Orignial Path:  [3676, 3501, 5752, 763, 3326, 8616, 5513, 869]
+Original Path Length:  333
+
+
+Orignial Path:  [41, 670, 5788, 7327, 860]
+Original Path Length:  218
+
+
+Orignial Path:  [7364, 7721, 4222]
+Original Path Length:  138
+
+
+Orignial Path:  [1832, 3024, 8595, 3985, 6031]
+Original Path Length:  148
+Better Path found:  [3024, 4043, 6573, 7304, 2132, 8653, 6309]
+Better Path Length:  252
+
+
+Orignial Path:  [5195, 4399, 8222]
+Original Path Length:  107
+
+
+Orignial Path:  [6634, 8991, 3461, 4267]
+Original Path Length:  278
+
+
+Orignial Path:  [4674, 5934]
+Original Path Length:  86
+
+
+Orignial Path:  [4988, 91]
+Original Path Length:  16
+
+
+Orignial Path:  [795, 6312, 5197]
+Original Path Length:  151
+
+
+Orignial Path:  [7508, 5695, 2738, 2410, 7117, 3492, 1234]
+Original Path Length:  248
+
+
+Orignial Path:  [1838, 8457]
+Original Path Length:  7
+
+
+Orignial Path:  [3151, 2720, 4672, 3809, 4114]
+Original Path Length:  314
+
+
+Orignial Path:  [5957, 267, 4539, 6766]
+Original Path Length:  162
+
+
+Orignial Path:  [3289, 1505]
+Original Path Length:  25
+
+
+Orignial Path:  [3792, 4018]
+Original Path Length:  5
+
+
+Orignial Path:  [997, 2653, 6853, 190]
+Original Path Length:  98
+
+
+Orignial Path:  [1679, 7038, 7693, 3188]
+Original Path Length:  238
+
+
+Orignial Path:  [296, 1419, 2346, 4336]
+Original Path Length:  8
+
+
+Orignial Path:  [4407, 5068]
+Original Path Length:  28
+
+
+Orignial Path:  [6418, 3995, 187, 5529, 2193]
+Original Path Length:  121
+
+
+Orignial Path:  [7517, 6557]
+Original Path Length:  20
+
+
+Orignial Path:  [8768, 7881, 4769, 6299]
+Original Path Length:  184
+Better Path found:  [7881, 7518, 5128, 2163, 2384, 5893, 4904]
+Better Path Length:  292
+
+
+Orignial Path:  [854, 2856, 3723, 5214]
+Original Path Length:  184
+Better Path found:  [2856, 2168, 719, 7171, 8884, 5610, 7910, 3609]
+Better Path Length:  442
+
+
+Orignial Path:  [1097, 6260]
+Original Path Length:  26
+
+
+Orignial Path:  [2231, 1818]
+Original Path Length:  64
+
+
+Orignial Path:  [3484, 4706, 1638, 5056, 5270]
+Original Path Length:  318
+
+
+Orignial Path:  [1318, 4890, 1589, 8612, 3589]
+Original Path Length:  265
+
+
+Orignial Path:  [6470, 3764, 2566, 7624, 6029, 3424, 4670, 7170]
+Original Path Length:  428
+
+
+Orignial Path:  [5210, 3628, 8565, 4811, 710, 1125]
+Original Path Length:  299
+
+
+Orignial Path:  [2882, 8396, 5654, 4832]
+Original Path Length:  143
+
+
+Orignial Path:  [103, 3194, 4853, 7429]
+Original Path Length:  58
+
+
+Orignial Path:  [252, 511, 260, 1038, 5766]
+Original Path Length:  234
+
+
+Orignial Path:  [5035, 3572, 8743, 4646, 2128, 2163, 2384, 5893, 4904]
+Original Path Length:  347
+
+
+Orignial Path:  [2619, 2028]
+Original Path Length:  45
+
+
+Orignial Path:  [2919, 586, 414]
+Original Path Length:  57
+
+
+Orignial Path:  [2114, 1149]
+Original Path Length:  74
+
+
+Orignial Path:  [3228, 3557]
+Original Path Length:  78
+
+
+Orignial Path:  [3430, 753, 5450, 2953, 1024, 6666]
+Original Path Length:  184
+
+
+Orignial Path:  [2912, 5371, 884]
+Original Path Length:  127
+Better Path found:  [2912, 5371, 6062]
+Better Path Length:  149
+
+
+Orignial Path:  [5752, 763, 1498, 5768, 7876]
+Original Path Length:  283
+
+
+Orignial Path:  [389, 7646, 2086]
+Original Path Length:  127
+
+
+Orignial Path:  [6189, 3268, 1581, 3617, 4004, 1894, 8208, 8710]
+Original Path Length:  438
+
+
+Orignial Path:  [3242, 2987, 8087]
+Original Path Length:  53
+
+
+Orignial Path:  [3801, 8237, 7946, 498, 1351]
+Original Path Length:  110
+
+
+Orignial Path:  [780, 5358, 4410, 8028]
+Original Path Length:  177
+
+
+Orignial Path:  [2224, 628, 7454, 8864]
+Original Path Length:  178
+
+
+Orignial Path:  [2893, 4289]
+Original Path Length:  73
+
+
+Orignial Path:  [8306, 5047, 6492, 3326, 8616, 5513, 869]
+Original Path Length:  389
+
+
+Orignial Path:  [3185, 493, 1347]
+Original Path Length:  60
+
+
+Orignial Path:  [3354, 8949]
+Original Path Length:  70
+
+
+Orignial Path:  [4638, 7960, 4794, 4545]
+Original Path Length:  160
+Better Path found:  [7960, 4794, 2034, 3515, 571, 7670]
+Better Path Length:  280
+
+
+Orignial Path:  [924, 1272, 2373, 3764, 2566, 7624, 6029, 3424, 4670, 7170]
+Original Path Length:  507
+Better Path found:  [924, 1272, 2373, 3764, 2566, 7624, 6029, 3424, 4670, 192]
+Better Path Length:  565
+
+
+Orignial Path:  [2134, 735, 4245, 3897, 605, 1649]
+Original Path Length:  193
+Better Path found:  [3897, 605, 4083, 3629, 1684, 8018, 4657, 6755, 7812, 8262, 9000, 8533]
+Better Path Length:  538
+
+
+Orignial Path:  [5381, 545, 2493]
+Original Path Length:  87
+
+
+Orignial Path:  [2914, 5703, 7082, 426]
+Original Path Length:  194
+Better Path found:  [5703, 7082, 4246, 5630, 7905, 3714]
+Better Path Length:  322
+
+
+Orignial Path:  [531, 5277, 398]
+Original Path Length:  168
+Better Path found:  [531, 5277, 4069]
+Better Path Length:  196
+
+
+Orignial Path:  [1077, 2761, 211]
+Original Path Length:  19
+
+
+Orignial Path:  [5857, 6924, 4921]
+Original Path Length:  45
+
+
+Orignial Path:  [3939, 8250, 880]
+Original Path Length:  131
+Better Path found:  [3939, 8250, 6292]
+Better Path Length:  135
+
+
+Orignial Path:  [6007, 2599, 7671, 7835]
+Original Path Length:  166
+
+
+Orignial Path:  [7083, 7737, 5005, 8412, 6529, 2675, 5382]
+Original Path Length:  343
+Better Path found:  [6529, 2675, 3105, 8594, 4330, 4586, 1267]
+Better Path Length:  354
+
+
+Orignial Path:  [2152, 4941]
+Original Path Length:  67
+
+
+Orignial Path:  [6946, 3931, 8964, 8397]
+Original Path Length:  260
+
+
+Orignial Path:  [1537, 5470]
+Original Path Length:  3
+
+
+Orignial Path:  [2047, 7939, 8604]
+Original Path Length:  157
+
+
+Orignial Path:  [3970, 3327, 5338]
+Original Path Length:  57
+
+
+Orignial Path:  [3628, 2086]
+Original Path Length:  42
+
+
+Orignial Path:  [266, 2765]
+Original Path Length:  9
+
+
+Orignial Path:  [8784, 3028]
+Original Path Length:  42
+
+
+Orignial Path:  [1200, 3353]
+Original Path Length:  2
+
+
+Orignial Path:  [3261, 924, 1272, 2373, 8116, 600, 235, 5821, 4860]
+Original Path Length:  422
+
+
+Orignial Path:  [6154, 5998]
+Original Path Length:  52
+
+
+Orignial Path:  [2972, 6416, 8953, 6670]
+Original Path Length:  103
+
+
+Orignial Path:  [8442, 3697]
+Original Path Length:  48
+
+
+Orignial Path:  [5349, 1750, 6620, 4863]
+Original Path Length:  79
+Better Path found:  [1750, 6620, 1365, 7528, 2597, 6021, 964, 3701, 6641, 8160]
+Better Path Length:  417
+
+
+Orignial Path:  [6965, 5345, 386, 6335, 267, 4539, 6766]
+Original Path Length:  339
+
+
+Orignial Path:  [8154, 5672, 2763]
+Original Path Length:  127
+
+
+Orignial Path:  [4463, 1420]
+Original Path Length:  66
+
+
+Orignial Path:  [4841, 3856, 4406]
+Original Path Length:  97
+
+
+Orignial Path:  [982, 8334, 8662, 640, 6533, 8382]
+Original Path Length:  202
+
+
+Orignial Path:  [4701, 5358, 4410, 8028]
+Original Path Length:  130
+
+
+Orignial Path:  [3593, 7214, 2982]
+Original Path Length:  150
+
+
+Orignial Path:  [6683, 4896]
+Original Path Length:  89
+
+
+Orignial Path:  [3926, 8537, 7762, 1746]
+Original Path Length:  142
+Better Path found:  [8537, 7762, 8458, 459, 6424, 7318]
+Better Path Length:  185
+
+
+Orignial Path:  [4718, 5099]
+Original Path Length:  3
+
+
+Orignial Path:  [6560, 5727, 1186, 8004, 1858, 5783, 4862, 6578, 8136, 5192, 1480, 8594, 4330, 4586, 1267]
+Original Path Length:  813
+
+
+Orignial Path:  [6408, 1313, 3181, 4853, 7429]
+Original Path Length:  200
+
+
+Orignial Path:  [3591, 4725, 2019]
+Original Path Length:  75
+
+
+Orignial Path:  [1719, 5872, 4783, 1339, 8323, 6229, 3772, 4885, 7577, 5586, 6482, 8858, 2308, 1931, 7733, 3530]
+Original Path Length:  895
+
+
+Orignial Path:  [3410, 8854, 8068, 8206]
+Original Path Length:  111
+
+
+Orignial Path:  [6870, 7232, 7123, 6638, 5906]
+Original Path Length:  173
+Better Path found:  [6870, 7232, 7123, 6638, 1233]
+Better Path Length:  211
+
+
+Orignial Path:  [8242, 1800, 3882, 2324]
+Original Path Length:  190
+
+
+Orignial Path:  [778, 7164, 406, 3649]
+Original Path Length:  168
+
+
+Orignial Path:  [6919, 6444, 7995, 5136, 5671, 1090, 5152, 868, 7420]
+Original Path Length:  467
+
+
+Orignial Path:  [6396, 1159]
+Original Path Length:  44
+
+
+Orignial Path:  [8234, 3482, 2684, 3823]
+Original Path Length:  112
+
+
+Orignial Path:  [6764, 7615]
+Original Path Length:  17
+
+
+Orignial Path:  [2290, 681]
+Original Path Length:  30
+
+
+Orignial Path:  [4352, 6394, 6920, 8687, 2793, 8819, 920]
+Original Path Length:  348
+
+
+Orignial Path:  [4709, 8505, 5627, 2061, 8018, 4657, 6755, 7812, 8262, 9000, 8533]
+Original Path Length:  548
+
+
+Orignial Path:  [3973, 859, 5073, 3645, 5151, 4025, 8932]
+Original Path Length:  351
+
+
+Orignial Path:  [175, 7691, 5993]
+Original Path Length:  115
+
+
+Orignial Path:  [6188, 5396]
+Original Path Length:  44
+
+
+Orignial Path:  [3841, 448]
+Original Path Length:  20
+
+
+Orignial Path:  [7389, 7156, 952, 7844, 1636, 3303]
+Original Path Length:  275
+
+
+Orignial Path:  [7166, 4587, 1654, 1081]
+Original Path Length:  86
+Better Path found:  [4587, 1654, 640, 6396, 1159]
+Better Path Length:  120
+
+
+Orignial Path:  [8501, 5390, 8616, 5513, 869]
+Original Path Length:  230
+
+
+Orignial Path:  [1438, 2258, 488]
+Original Path Length:  36
+Better Path found:  [1438, 2258, 5784]
+Better Path Length:  110
+
+
+Orignial Path:  [3580, 2984, 1489, 294]
+Original Path Length:  233
+
+
+Orignial Path:  [19, 1746]
+Original Path Length:  66
+
+
+Orignial Path:  [4199, 5282, 7232, 6663, 2688]
+Original Path Length:  133
+Better Path found:  [7123, 6638, 1233]
+Better Path Length:  141
+
+
+Orignial Path:  [5876, 4581, 2414]
+Original Path Length:  55
+
+
+Orignial Path:  [5878, 7702]
+Original Path Length:  46
+
+
+Orignial Path:  [2076, 5792, 5463, 807, 702]
+Original Path Length:  249
+Better Path found:  [5792, 5463, 8538, 1995, 217, 2252]
+Better Path Length:  320
+
+
+Orignial Path:  [3059, 6969]
+Original Path Length:  93
+
+
+Orignial Path:  [1500, 2491, 572, 2711, 4009]
+Original Path Length:  155
+Better Path found:  [2491, 572, 6997, 1650, 5720, 8952, 2450, 1859]
+Better Path Length:  232
+
+
+Orignial Path:  [782, 2228, 6514]
+Original Path Length:  109
+Better Path found:  [782, 2228, 4112]
+Better Path Length:  127
+
+
+Orignial Path:  [4855, 4156, 216, 4177]
+Original Path Length:  145
+Better Path found:  [4855, 4156, 216, 250]
+Better Path Length:  225
+
+
+Orignial Path:  [324, 3955]
+Original Path Length:  52
+
+
+Orignial Path:  [5238, 3535, 8499]
+Original Path Length:  175
+
+
+Orignial Path:  [5290, 7606]
+Original Path Length:  13
+
+
+Orignial Path:  [2798, 5169, 7170]
+Original Path Length:  102
+
+
+Orignial Path:  [7575, 3498, 7015, 7212, 6314, 904, 2577, 1756]
+Original Path Length:  321
+
+
+Orignial Path:  [2198, 2176, 7597, 6360, 7246, 4767, 709, 1906, 5518, 3300, 8015, 199, 6269, 3229, 432, 7468]
+Original Path Length:  855
+
+
+Orignial Path:  [21, 7096]
+Original Path Length:  61
+
+
+Orignial Path:  [2178, 4896]
+Original Path Length:  8
+
+
+Orignial Path:  [7828, 3648, 2472, 4113, 2457, 7004]
+Original Path Length:  161
+
+
+Orignial Path:  [7800, 5845, 223]
+Original Path Length:  76
+
+
+Orignial Path:  [5521, 7614, 4594, 3490]
+Original Path Length:  207
+
+
+Orignial Path:  [4761, 1826, 3450, 2101, 4516]
+Original Path Length:  148
+
+
+Orignial Path:  [6050, 1029, 6549, 3605, 6319, 4054]
+Original Path Length:  132
+
+
+Orignial Path:  [1122, 1214, 472, 7779, 5147, 915]
+Original Path Length:  318
+
+
+Orignial Path:  [7680, 853]
+Original Path Length:  45
+
+
+Orignial Path:  [1374, 8122, 3345, 1053, 4056, 7303, 2857, 5165]
+Original Path Length:  406
+
+
+Orignial Path:  [4181, 7999]
+Original Path Length:  12
+
+
+Orignial Path:  [3167, 2976, 2405, 8156, 4290, 2654, 946, 7943, 4024, 2310, 4102, 2788]
+Original Path Length:  529
+
+
+Orignial Path:  [6663, 2688]
+Original Path Length:  60
+
+
+Orignial Path:  [7309, 5041, 920]
+Original Path Length:  30
+
+
+Orignial Path:  [7477, 3059, 2214]
+Original Path Length:  71
+Better Path found:  [7477, 3059, 6969]
+Better Path Length:  119
+
+
+Orignial Path:  [1110, 3004]
+Original Path Length:  41
+
+
+Orignial Path:  [8069, 4983]
+Original Path Length:  90
+
+
+Orignial Path:  [8264, 4831, 3289, 1505]
+Original Path Length:  113
+Better Path found:  [4831, 3289, 1388, 1678]
+Better Path Length:  188
+
+
+Orignial Path:  [8419, 5580, 8875]
+Original Path Length:  137
+Better Path found:  [8419, 5580, 2344]
+Better Path Length:  180
+
+
+Orignial Path:  [3606, 1841, 8673]
+Original Path Length:  187
+
+
+Orignial Path:  [6848, 2601, 2904, 3878, 1643]
+Original Path Length:  238
+
+
+Orignial Path:  [5280, 5260]
+Original Path Length:  99
+
+
+Orignial Path:  [5823, 8719]
+Original Path Length:  18
+
+
+Orignial Path:  [5673, 230, 5811, 4248]
+Original Path Length:  165
+
+
+Orignial Path:  [4674, 5934]
+Original Path Length:  86
+
+
+Orignial Path:  [5756, 749]
+Original Path Length:  53
+
+
+Orignial Path:  [4868, 8676]
+Original Path Length:  4
+
+
+Orignial Path:  [6635, 5667]
+Original Path Length:  82
+
+
+Orignial Path:  [7489, 1057, 5864, 8656, 3035]
+Original Path Length:  108
+Better Path found:  [1057, 5864, 8656, 3119, 7803]
+Better Path Length:  259
+
+
+Orignial Path:  [5801, 728]
+Original Path Length:  52
+
+
+Orignial Path:  [8939, 3794, 5592, 8797]
+Original Path Length:  83
+
+
+Orignial Path:  [5833, 2800, 2745, 4154, 5757, 8825, 8746, 2713, 2921]
+Original Path Length:  424
+
+
+Orignial Path:  [756, 185, 78]
+Original Path Length:  86
+
+
+Orignial Path:  [3185, 493, 1347]
+Original Path Length:  60
+
+
+Orignial Path:  [5251, 8323, 6229, 3772, 4885, 7577, 8709, 4183, 2339, 6584, 2826, 7114]
+Original Path Length:  626
+
+
+Orignial Path:  [1403, 4098, 4288, 1310, 161, 1581, 3617, 4004, 1894, 8208, 8710]
+Original Path Length:  538
+
+
+Orignial Path:  [6303, 4265, 7654]
+Original Path Length:  69
+
+
+Orignial Path:  [6028, 7927, 1260, 2125, 6957]
+Original Path Length:  236
+Better Path found:  [7927, 2568, 2354, 7657, 6231, 1449]
+Better Path Length:  347
+
+
+Orignial Path:  [1406, 1258]
+Original Path Length:  25
+
+
+Orignial Path:  [4920, 5099]
+Original Path Length:  19
+
+
+Orignial Path:  [5995, 4025, 4824]
+Original Path Length:  122
+Better Path found:  [5995, 4025, 8932]
+Better Path Length:  163
+
+
+Orignial Path:  [7893, 4291]
+Original Path Length:  25
+
+
+Orignial Path:  [8662, 640, 6396, 1159]
+Original Path Length:  162
+
+
+Orignial Path:  [3773, 2368]
+Original Path Length:  34
+
+
+Orignial Path:  [6998, 8504, 4314]
+Original Path Length:  130
+
+
+Orignial Path:  [7472, 4792, 309]
+Original Path Length:  122
+
+
+Orignial Path:  [1455, 110, 3569, 2106, 1962, 8072]
+Original Path Length:  101
+
+
+Orignial Path:  [1019, 8738, 8719]
+Original Path Length:  26
+Better Path found:  [1019, 8738, 4071]
+Better Path Length:  38
+
+
+Orignial Path:  [4075, 7586, 2838]
+Original Path Length:  133
+Better Path found:  [4075, 7586, 8910]
+Better Path Length:  143
+
+
+Orignial Path:  [1910, 8582]
+Original Path Length:  18
+
+
+Orignial Path:  [1241, 5622, 8948]
+Original Path Length:  151
+
+
+Orignial Path:  [3617, 4004, 4873, 7756, 8334, 2865]
+Original Path Length:  213
+
+
+Orignial Path:  [722, 2012]
+Original Path Length:  76
+
+
+Orignial Path:  [5166, 3017, 1697]
+Original Path Length:  130
+
+
+Orignial Path:  [48, 8913, 8550]
+Original Path Length:  120
+Better Path found:  [48, 8913, 5820]
+Better Path Length:  127
+
+
+Orignial Path:  [8628, 2843, 2295]
+Original Path Length:  170
+
+
+Orignial Path:  [7943, 4024, 2310, 4102, 2788]
+Original Path Length:  234
+
+
+Orignial Path:  [6076, 3183]
+Original Path Length:  33
+
+
+Orignial Path:  [350, 4541]
+Original Path Length:  87
+
+
+Orignial Path:  [8640, 3401, 2227]
+Original Path Length:  151
+
+
+Orignial Path:  [7365, 5795, 3102]
+Original Path Length:  33
+
+
+Orignial Path:  [1191, 8627]
+Original Path Length:  91
+
+
+Orignial Path:  [4190, 4364, 8192, 5261, 8363, 3593, 3095, 1270]
+Original Path Length:  416
+
+
+Orignial Path:  [6870, 7232, 6663, 2688]
+Original Path Length:  159
+Better Path found:  [7232, 7123, 6638, 1233, 7654]
+Better Path Length:  182
+
+
+Orignial Path:  [4851, 14]
+Original Path Length:  35
+
+
+Orignial Path:  [7053, 405]
+Original Path Length:  21
+
+
+Orignial Path:  [1033, 3330]
+Original Path Length:  71
+
+
+Orignial Path:  [4820, 8330]
+Original Path Length:  20
+
+
+Orignial Path:  [2038, 4682, 4174, 7987, 5637, 1321]
+Original Path Length:  359
+
+
+Orignial Path:  [2920, 4234, 1504, 1473, 3248, 1314, 2597, 690]
+Original Path Length:  339
+Better Path found:  [3248, 1314, 2597, 6021, 3419, 7142, 1446, 2358, 7380]
+Better Path Length:  498
+
+
+Orignial Path:  [4237, 5400, 2512]
+Original Path Length:  109
+
+
+Orignial Path:  [5466, 5054, 1781]
+Original Path Length:  78
+
+
+Orignial Path:  [672, 8765, 5721, 4639]
+Original Path Length:  168
+Better Path found:  [8765, 5721, 3151, 2720, 4363, 2758, 4030, 954]
+Better Path Length:  472
+
+
+Orignial Path:  [4537, 8214, 6060]
+Original Path Length:  117
+
+
+Orignial Path:  [1614, 6040, 8439, 1427, 6000, 1607]
+Original Path Length:  206
+
+
+Orignial Path:  [2147, 8533]
+Original Path Length:  86
+
+
+Orignial Path:  [6995, 4964]
+Original Path Length:  48
+
+
+Orignial Path:  [4298, 3799, 5918]
+Original Path Length:  99
+Better Path found:  [4298, 3799, 71]
+Better Path Length:  125
+
+
+Orignial Path:  [2379, 3052]
+Original Path Length:  27
+
+
+Orignial Path:  [8830, 7016]
+Original Path Length:  30
+
+
+Orignial Path:  [8177, 7929, 1707]
+Original Path Length:  86
+
+
+Orignial Path:  [7051, 1327]
+Original Path Length:  9
+
+
+Orignial Path:  [4973, 5153, 4536, 4979, 273, 7878, 7486, 8457]
+Original Path Length:  285
+
+
+Orignial Path:  [8483, 1355]
+Original Path Length:  97
+
+
+Orignial Path:  [6419, 7642, 5383, 8303]
+Original Path Length:  83
+
+
+Orignial Path:  [991, 4164, 7641, 1771, 7516, 4208, 2238]
+Original Path Length:  428
+Better Path found:  [4164, 7641, 1771, 7516, 4208, 1863, 6103, 1875, 6258, 7999]
+Better Path Length:  620
+
+
+Orignial Path:  [2181, 6339, 4559, 7565]
+Original Path Length:  182
+
+
+Orignial Path:  [2310, 4102, 2788]
+Original Path Length:  88
+
+
+Orignial Path:  [8960, 7006, 5365, 5412, 3906, 7019, 8587, 6747, 152]
+Original Path Length:  441
+
+
+Orignial Path:  [8207, 4072, 1869]
+Original Path Length:  51
+
+
+Orignial Path:  [1514, 6089]
+Original Path Length:  47
+
+
+Orignial Path:  [6477, 2607]
+Original Path Length:  43
+
+
+Orignial Path:  [8067, 8280]
+Original Path Length:  45
+
+
+Orignial Path:  [8980, 5107, 6724, 4057, 292, 5565, 5656]
+Original Path Length:  280
+
+
+Orignial Path:  [6144, 8696]
+Original Path Length:  14
+
+
+Orignial Path:  [4089, 1835, 4802, 2485, 5619, 7727, 8714, 3320, 5627, 2061, 8018, 4657, 6755, 7812, 8262, 2011, 6964, 2993, 597, 7430, 6574]
+Original Path Length:  773
+
+
+Orignial Path:  [1854, 2940]
+Original Path Length:  23
+
+
+Orignial Path:  [5238, 3535, 8499]
+Original Path Length:  175
+
+
+Orignial Path:  [5441, 115, 2330]
+Original Path Length:  104
+
+
+Orignial Path:  [3799, 71, 1513, 6957]
+Original Path Length:  178
+
+
+Orignial Path:  [2774, 7283, 1404, 4708, 2126]
+Original Path Length:  210
+Better Path found:  [7283, 1404, 4708, 1104, 1159]
+Better Path Length:  232
+
+
+Orignial Path:  [253, 5069, 8908]
+Original Path Length:  68
+
+
+Orignial Path:  [3070, 7043, 2894, 4412, 7437, 2406, 1814, 8082, 5660, 3417]
+Original Path Length:  588
+
+
+Orignial Path:  [7331, 1804, 2909, 451, 3909, 3594]
+Original Path Length:  202
+Better Path found:  [2909, 451, 1887, 4860]
+Better Path Length:  217
+
+
+Orignial Path:  [5699, 6665]
+Original Path Length:  55
+
+
+Orignial Path:  [389, 7646, 2086]
+Original Path Length:  127
+
+
+Orignial Path:  [1250, 5308, 5530, 4384]
+Original Path Length:  187
+
+
+Orignial Path:  [3790, 3977]
+Original Path Length:  13
+
+
+Orignial Path:  [4150, 1971, 5237]
+Original Path Length:  101
+Better Path found:  [4150, 1971, 2908]
+Better Path Length:  125
+
+
+Orignial Path:  [5984, 5400, 2512]
+Original Path Length:  122
+
+
+Orignial Path:  [3056, 167]
+Original Path Length:  19
+
+
+Orignial Path:  [82, 2706]
+Original Path Length:  16
+
+
+Orignial Path:  [2270, 5714, 1093]
+Original Path Length:  147
+
+
+Orignial Path:  [6235, 5781]
+Original Path Length:  13
+
+
+Orignial Path:  [8910, 985, 2815]
+Original Path Length:  75
+Better Path found:  [8910, 985, 1276]
+Better Path Length:  112
+
+
+Orignial Path:  [6266, 5287, 3058, 1525, 502, 5444, 6287]
+Original Path Length:  326
+
+
+Orignial Path:  [6678, 898, 4901]
+Original Path Length:  76
+
+
+Orignial Path:  [5931, 7298]
+Original Path Length:  98
+
+
+Orignial Path:  [5895, 3598, 7247]
+Original Path Length:  151
+
+
+Orignial Path:  [3285, 3867, 3423, 4297, 2286]
+Original Path Length:  211
+Better Path found:  [3423, 4297, 4588, 3688, 4461, 6929, 2176, 7597, 6360, 7246, 4767, 709, 1906, 5518, 3300, 8015, 3619, 5611, 7098, 6166, 6770]
+Better Path Length:  1142
+
+
+Orignial Path:  [2578, 424]
+Original Path Length:  39
+
+
+Orignial Path:  [3621, 3991, 5778, 8029, 3074, 4349, 1470, 5407, 6109, 3351]
+Original Path Length:  464
+
+
+Orignial Path:  [872, 999]
+Original Path Length:  19
+
+
+Orignial Path:  [8031, 2031, 6134, 7110, 3065]
+Original Path Length:  227
+
+
+Orignial Path:  [4467, 2301, 8862, 8557, 4872]
+Original Path Length:  222
+
+
+Orignial Path:  [4935, 4176]
+Original Path Length:  94
+
+
+Orignial Path:  [1479, 7284]
+Original Path Length:  37
+
+
+Orignial Path:  [8057, 7260, 4086, 3715, 1057, 5864, 8656, 3119, 499]
+Original Path Length:  465
+Better Path found:  [7260, 6615, 6360, 7246, 4767, 709, 1906, 8938]
+Better Path Length:  477
+
+
+Orignial Path:  [7124, 8202, 4334]
+Original Path Length:  100
+Better Path found:  [7124, 8202, 7316]
+Better Path Length:  160
+
+
+Orignial Path:  [5228, 4354]
+Original Path Length:  45
+
+
+Orignial Path:  [7414, 7752, 7152, 7515]
+Original Path Length:  159
+
+
+Orignial Path:  [4510, 5344, 7437, 2406, 1814, 8082, 3312]
+Original Path Length:  397
+
+
+Orignial Path:  [5287, 3058, 1525, 502, 5444, 6287]
+Original Path Length:  292
+
+
+Orignial Path:  [8563, 6200, 1107, 876, 3656, 8131]
+Original Path Length:  328
+
+
+Orignial Path:  [8742, 3914]
+Original Path Length:  39
+
+
+Orignial Path:  [3970, 3327, 5338]
+Original Path Length:  57
+
+
+Orignial Path:  [786, 5904, 8333]
+Original Path Length:  164
+Better Path found:  [786, 5904, 8515]
+Better Path Length:  168
+
+
+Orignial Path:  [3896, 4498, 58, 1225, 3035]
+Original Path Length:  197
+
+
+Orignial Path:  [1900, 7790]
+Original Path Length:  35
+
+
+Orignial Path:  [8679, 7820, 1238, 5180, 7602, 8386, 3506, 5912, 5561]
+Original Path Length:  518
+
+
+Orignial Path:  [7483, 3533, 4970, 4277, 6455, 7117, 3492, 6075]
+Original Path Length:  388
+
+
+Orignial Path:  [3913, 3383, 2000]
+Original Path Length:  155
+
+
+Orignial Path:  [8638, 6103, 1875, 6876]
+Original Path Length:  201
+
+
+Orignial Path:  [3179, 6950, 43, 5942]
+Original Path Length:  105
+Better Path found:  [6950, 4382, 6102]
+Better Path Length:  116
+
+
+Orignial Path:  [5287, 3058, 1525, 502, 3522, 178, 6278]
+Original Path Length:  283
+
+
+Orignial Path:  [391, 2477]
+Original Path Length:  51
+
+
+Orignial Path:  [5730, 7792]
+Original Path Length:  22
+
+
+Orignial Path:  [4353, 3131, 2322, 6711, 2137, 3961, 5323]
+Original Path Length:  364
+
+
+Orignial Path:  [3563, 2514, 1308, 1666]
+Original Path Length:  155
+
+
+Orignial Path:  [2559, 5638]
+Original Path Length:  28
+
+
+Orignial Path:  [1836, 709, 1906, 5518, 3300, 8015, 199, 6269, 3229, 432, 7468]
+Original Path Length:  436
+
+
+Orignial Path:  [6936, 8432, 5470]
+Original Path Length:  58
+
+
+Orignial Path:  [1662, 4798, 4239]
+Original Path Length:  151
+Better Path found:  [1662, 4798, 266]
+Better Path Length:  163
+
+
+Orignial Path:  [831, 7135]
+Original Path Length:  95
+
+
+Orignial Path:  [2201, 8290, 2663]
+Original Path Length:  123
+
+
+Orignial Path:  [550, 7273, 7264, 6023, 4220, 7189, 2587]
+Original Path Length:  211
+Better Path found:  [7273, 7264, 6023, 4220, 24, 5390, 1978]
+Better Path Length:  356
+
+
+Orignial Path:  [4540, 8533]
+Original Path Length:  40
+
+
+Orignial Path:  [5485, 7213, 5208, 7276, 1193, 67, 2117, 4045, 1184, 7551]
+Original Path Length:  591
+
+
+Orignial Path:  [7466, 3015, 1353, 2752, 6217, 3095, 8696]
+Original Path Length:  250
+
+
+Orignial Path:  [5755, 1120, 3999, 1478]
+Original Path Length:  229
+
+
+Orignial Path:  [4382, 6102]
+Original Path Length:  89
+
+
+Orignial Path:  [7836, 3822, 2140, 2318, 2089]
+Original Path Length:  219
+
+
+Orignial Path:  [3754, 6822]
+Original Path Length:  86
+
+
+Orignial Path:  [3172, 4552]
+Original Path Length:  39
+
+
+Orignial Path:  [760, 8429, 5189, 8046]
+Original Path Length:  175
+
+
+Orignial Path:  [8707, 6493, 1615, 8809, 2581]
+Original Path Length:  167
+
+
+Orignial Path:  [5383, 8303]
+Original Path Length:  50
+
+
+Orignial Path:  [7438, 1506]
+Original Path Length:  53
+
+
+Orignial Path:  [6302, 5748, 4674, 5934]
+Original Path Length:  250
+
+
+Orignial Path:  [3154, 8158]
+Original Path Length:  59
+
+
+Orignial Path:  [1152, 5233, 8381]
+Original Path Length:  119
+
+
+Orignial Path:  [894, 6950, 43, 1279]
+Original Path Length:  167
+
+
+Orignial Path:  [2917, 2614, 524, 1350]
+Original Path Length:  138
+Better Path found:  [2917, 2614, 524, 954]
+Better Path Length:  173
+
+
+Orignial Path:  [7266, 1032, 2358, 7380]
+Original Path Length:  163
+
+
+Orignial Path:  [3022, 3729, 1882]
+Original Path Length:  79
+Better Path found:  [3022, 3729, 346]
+Better Path Length:  101
+
+
+Orignial Path:  [6915, 5238, 3535, 8499]
+Original Path Length:  190
+
+
+Orignial Path:  [5261, 5600]
+Original Path Length:  66
+
+
+Orignial Path:  [7388, 6199]
+Original Path Length:  3
+
+
+Orignial Path:  [1448, 7013, 1524, 8667]
+Original Path Length:  105
+
+
+Orignial Path:  [247, 1500, 2491, 572, 2711, 4009]
+Original Path Length:  254
+Better Path found:  [1500, 8250, 6292, 1004, 5138, 803, 7044]
+Better Path Length:  283
+
+
+Orignial Path:  [4356, 640, 6396, 1159]
+Original Path Length:  65
+
+
+Orignial Path:  [5095, 3174, 5550, 1516]
+Original Path Length:  215
+
+
+Orignial Path:  [4077, 7137, 768, 3816, 8123, 6983]
+Original Path Length:  224
+Better Path found:  [5138, 803, 282, 2223, 6110, 6967, 7755, 7715, 211]
+Better Path Length:  344
+
+
+Orignial Path:  [2973, 7085, 3096, 2738, 2410, 7569]
+Original Path Length:  319
+
+
+Orignial Path:  [4725, 2019]
+Original Path Length:  60
+
+
+Orignial Path:  [5480, 5594]
+Original Path Length:  28
+
+
+Orignial Path:  [8783, 563, 4166]
+Original Path Length:  159
+
+
+Orignial Path:  [8121, 8537, 7762, 1746]
+Original Path Length:  91
+
+
+Orignial Path:  [7774, 5214]
+Original Path Length:  23
+
+
+Orignial Path:  [7995, 5136, 5671, 2143, 81, 6921, 6854]
+Original Path Length:  347
+
+
+Orignial Path:  [1942, 3336]
+Original Path Length:  33
+
+
+Orignial Path:  [8906, 6162, 5601]
+Original Path Length:  51
+Better Path found:  [8906, 6162, 1793]
+Better Path Length:  63
+
+
+Orignial Path:  [2997, 5795, 3102]
+Original Path Length:  102
+
+
+Orignial Path:  [7435, 7176, 6452, 6004]
+Original Path Length:  147
+
+
+Orignial Path:  [3592, 7626, 6708]
+Original Path Length:  47
+
+
+Orignial Path:  [6361, 8411, 4317]
+Original Path Length:  126
+Better Path found:  [6361, 8411, 3220]
+Better Path Length:  150
+
+
+Orignial Path:  [7068, 4328, 7007, 8530, 6627, 3810]
+Original Path Length:  283
+Better Path found:  [7007, 5030, 4796, 7884, 2182, 2615, 5519, 4362, 7834]
+Better Path Length:  511
+
+
+Orignial Path:  [3168, 2244, 730, 7088, 8362, 1965]
+Original Path Length:  301
+
+
+Orignial Path:  [775, 4435]
+Original Path Length:  71
+
+
+Orignial Path:  [2289, 6647]
+Original Path Length:  55
+
+
+Orignial Path:  [7456, 3237, 54]
+Original Path Length:  108
+
+
+Orignial Path:  [21, 7096]
+Original Path Length:  61
+
+
+Orignial Path:  [3456, 2920, 3148, 2350, 1409, 193, 1812]
+Original Path Length:  277
+
+
+Orignial Path:  [7925, 6306, 2066, 6445, 41, 8658]
+Original Path Length:  196
+Better Path found:  [41, 670, 6772, 1705, 4542, 5651, 2278, 8241, 4963]
+Better Path Length:  414
+
+
+Orignial Path:  [5130, 2840, 6220]
+Original Path Length:  114
+
+
+Orignial Path:  [3729, 346]
+Original Path Length:  88
+
+
+Orignial Path:  [505, 3955]
+Original Path Length:  93
+
+
+Orignial Path:  [3604, 6881]
+Original Path Length:  92
+
+
+Orignial Path:  [8922, 3882, 2324]
+Original Path Length:  113
+
+
+Orignial Path:  [3985, 8569, 60]
+Original Path Length:  124
+Better Path found:  [3985, 8569, 988]
+Better Path Length:  173
+
+
+Orignial Path:  [463, 3254]
+Original Path Length:  11
+
+
+Orignial Path:  [7386, 734, 856]
+Original Path Length:  104
+Better Path found:  [7386, 734, 7254]
+Better Path Length:  109
+
+
+Orignial Path:  [2703, 5748, 4674, 5934]
+Original Path Length:  187
+
+
+Orignial Path:  [5815, 4159, 3427, 3390, 6193, 2380, 5005, 8412, 6960]
+Original Path Length:  483
+
+
+Orignial Path:  [8843, 7718, 480, 2954, 171]
+Original Path Length:  100
+
+
+Orignial Path:  [3829, 6164]
+Original Path Length:  27
+
+
+Orignial Path:  [5738, 8632, 325]
+Original Path Length:  90
+
+
+Orignial Path:  [5765, 6325, 6477, 2607]
+Original Path Length:  205
+
+
+Orignial Path:  [5755, 1120, 3999, 1478]
+Original Path Length:  229
+
+
+Orignial Path:  [1388, 5449, 4504, 7752, 7152, 7515]
+Original Path Length:  277
+
+
+Orignial Path:  [2148, 8628, 2843, 2295]
+Original Path Length:  267
+
+
+Orignial Path:  [4316, 3965]
+Original Path Length:  21
+
+
+Orignial Path:  [5995, 4025, 8932]
+Original Path Length:  163
+
+
+Orignial Path:  [3085, 3350]
+Original Path Length:  31
+
+
+Orignial Path:  [5263, 2212, 6863, 4706, 1638, 5056, 5270]
+Original Path Length:  463
+
+
+Orignial Path:  [7169, 2699]
+Original Path Length:  32
+
+
+Orignial Path:  [4456, 6764, 7615]
+Original Path Length:  63
+
+
+Orignial Path:  [267, 1319, 4721]
+Original Path Length:  57
+
+
+Orignial Path:  [1583, 4743, 4127, 7709]
+Original Path Length:  179
+
+
+Orignial Path:  [973, 2223, 6110, 939, 6549, 3605, 6319, 4054]
+Original Path Length:  336
+
+
+Orignial Path:  [5819, 3041, 8074, 1281, 2489, 8792]
+Original Path Length:  197
+
+
+Orignial Path:  [3057, 6511, 7291]
+Original Path Length:  114
+
+
+Orignial Path:  [413, 3650]
+Original Path Length:  30
+
+
+Orignial Path:  [737, 7663, 7141, 7072, 6623, 5022]
+Original Path Length:  284
+
+
+Orignial Path:  [909, 6140, 587, 3374, 748, 7779, 3169, 2119, 3095, 8696]
+Original Path Length:  338
+
+
+Orignial Path:  [5301, 7810]
+Original Path Length:  81
+
+
+Orignial Path:  [5268, 3470, 612]
+Original Path Length:  144
+
+
+Orignial Path:  [7237, 1503]
+Original Path Length:  18
+
+
+Orignial Path:  [8010, 4695]
+Original Path Length:  58
+
+
+Orignial Path:  [109, 4575, 7192]
+Original Path Length:  51
+
+
+Orignial Path:  [5331, 6367, 3557]
+Original Path Length:  121
+
+
+Orignial Path:  [2338, 6675]
+Original Path Length:  88
+
+
+Orignial Path:  [7827, 1701, 366, 117]
+Original Path Length:  196
+
+
+Orignial Path:  [2128, 5432]
+Original Path Length:  95
+
+
+Orignial Path:  [6203, 7698, 3812, 1655, 2959]
+Original Path Length:  194
+
+
+Orignial Path:  [8860, 6101, 1004, 7162, 6614, 7374]
+Original Path Length:  139
+Better Path found:  [1004, 5138, 803, 282, 2223, 6110, 6967, 4142, 8829, 3309, 6726, 930]
+Better Path Length:  434
+
+
+Orignial Path:  [156, 1094, 1513, 6957]
+Original Path Length:  198
+
+
+Orignial Path:  [2711, 4009]
+Original Path Length:  57
+
+
+Orignial Path:  [8016, 1634, 8493]
+Original Path Length:  55
+
+
+Orignial Path:  [5450, 2953, 6222]
+Original Path Length:  93
+Better Path found:  [5450, 2953, 1024]
+Better Path Length:  103
+
+
+Orignial Path:  [8373, 632, 8361]
+Original Path Length:  160
+Better Path found:  [8373, 632, 553]
+Better Path Length:  167
+
+
+Orignial Path:  [6129, 3512, 2458, 831, 3975]
+Original Path Length:  255
+
+
+Orignial Path:  [8383, 1593, 7968, 8237, 7946, 498, 1351]
+Original Path Length:  231
+
+
+Orignial Path:  [8053, 914]
+Original Path Length:  50
+
+
+Orignial Path:  [1562, 7014, 8854, 8068, 3882, 2324]
+Original Path Length:  256
+
+
+Orignial Path:  [5675, 6177, 1890]
+Original Path Length:  94
+Better Path found:  [5675, 6177, 4445]
+Better Path Length:  127
+
+
+Orignial Path:  [1690, 775, 4435]
+Original Path Length:  137
+
+
+Orignial Path:  [5139, 1433]
+Original Path Length:  10
+
+
+Orignial Path:  [3425, 3659, 2054]
+Original Path Length:  117
+
+
+Orignial Path:  [2622, 7955]
+Original Path Length:  23
+
+
+Orignial Path:  [5186, 6523, 1258]
+Original Path Length:  21
+
+
+Orignial Path:  [8208, 8710]
+Original Path Length:  68
+
+
+Orignial Path:  [2316, 8973, 5328, 8381]
+Original Path Length:  179
+
+
+Longest Path:  1142

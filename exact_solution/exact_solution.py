@@ -3,7 +3,7 @@ def main():
     num_vertices, num_edges = [int(x) for x in input().split()]
     graph = {}
     for i in range(num_vertices):
-        graph[i] = set()
+        graph[i+1] = set()
     for _ in range(num_edges):
         u, v, w = [int(x) for x in input().split()]
         # might need to add edges going the other way too
@@ -14,7 +14,7 @@ def main():
     verify(path, cost, graph)
     # verify([0,1,3,2,4,5], 70, graph)
     
-    print(graph)
+    # print(graph)
 
 
 def longest(graph, path,cost, sols):
