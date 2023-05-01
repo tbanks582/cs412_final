@@ -13,7 +13,7 @@ def main():
     longest = -1
 
     for _ in range(1000):
-        path = generate_random_path(graph)
+        path = generate_random_path(graph, None)
         length = calculate_path_length(graph, path)
 
         if length > longest:
@@ -21,7 +21,7 @@ def main():
         
         if len(path) < 2:
             continue
-        annealed_path = annealing_longest_path(graph, 1000, .9, 100, path)
+        annealed_path = annealing_longest_path(graph, 1000, .80, 100, path)
         annealed_length = calculate_path_length(graph, annealed_path)
         print("Orignial Path: ", path)
         print("Original Path Length: ", length)
@@ -37,10 +37,11 @@ def main():
 
 
 # Returns a random path of random length from the given graph
-def generate_random_path(graph):
+def generate_random_path(graph, start):
     marked = set()
 
-    start = random.choice(list(graph.keys()))
+    if start == None:
+        start = random.choice(list(graph.keys()))
 
     path = [start]
     marked.add(start)
@@ -96,16 +97,20 @@ def calculate_path_length(graph, path):
 def edge_exists(graph, u, v):
     return any(neighbor == v for neighbor, _ in graph[u])
 
-def random_swap_verticies(graph, path):
-    available = path.copy()
+
+def random_vertex_path(graph, path):
+
+    available = path[1:]
     new_path = path.copy()
 
     # vertex before the one that will be switched. Switch will occur with on of this vertex's neighbors
-    vertex = random.choice(path)
+    vertex = random.choice(available)
 
     while len(graph[vertex]) == 0:
         available.remove(vertex)
 
+        if len(available) == 0:
+            return new_path
         vertex = random.choice(available)
 
     # index of the vertex that will be swapped with previous's neighbor
@@ -116,6 +121,48 @@ def random_swap_verticies(graph, path):
         neighbor = random.choice(tuple(graph[path[path.index(vertex) - 1]]))
         new_path[-1] = neighbor[0]
         return new_path
+    
+
+    # if vertex chosen is second to last in path
+    if vertex == path[-2]:
+        neighbor = random.choice(tuple(graph[path[path.index(vertex)]]))
+        new_path[swap_index] = neighbor[0]
+        return new_path
+
+    new_path = generate_random_path(graph, vertex)
+    
+    return new_path
+
+
+# swap random verticies until a new path can be constructed
+def random_swap_verticies(graph, path):
+    available = path.copy()
+    new_path = path.copy()
+
+    # vertex before the one that will be switched. Switch will occur with on of this vertex's neighbors
+    vertex = random.choice(path)
+
+    # index = path.index(vertex)
+    # trunc = generate_random_path(graph, vertex)
+    # new = path[0::index] + trunc
+
+    while len(graph[vertex]) == 0:
+        available.remove(vertex)
+
+        if len(available) == 0:
+            return new_path
+        vertex = random.choice(available)
+
+    # index of the vertex that will be swapped with previous's neighbor
+    swap_index = path.index(vertex) + 1
+
+    # if vertex is last in path
+    if vertex == path[-1]:
+        neighbor = random.choice(tuple(graph[path[path.index(vertex) - 1]]))
+        new_path[-1] = neighbor[0]
+        return new_path
+    
+
     # if vertex chosen is second to last in path
     if vertex == path[-2]:
         neighbor = random.choice(tuple(graph[path[path.index(vertex)]]))
@@ -145,7 +192,7 @@ def annealing_longest_path(graph, inital_temp, cool_rate, stop_temp, path):
     temp = inital_temp
 
     while temp > stop_temp:
-        new_path = random_swap_verticies(graph, path)
+        new_path = random_vertex_path(graph, path)
         
         new_length = calculate_path_length(graph, new_path)
 
