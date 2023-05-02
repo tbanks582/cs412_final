@@ -1,17 +1,22 @@
+import time
+
 def main():
-    # print('asd123')
-    num_vertices, num_edges = [int(x) for x in input().split()]
+    
+    num_vertices = int(input())
     graph = {}
     for i in range(num_vertices):
-        graph[i+1] = set()
-    for _ in range(num_edges):
+        graph[i + 1] = set()
+    for i in range(90):
+
         u, v, w = [int(x) for x in input().split()]
-        # might need to add edges going the other way too
         graph[u].add((v,w))
     sols = []
+    start = time.time_ns()
     cost, path = longest(graph, [], 0, sols)
-    print(cost, path)
+    print("Path: ", path)
     verify(path, cost, graph)
+    end = time.time_ns()
+    print('Ran in '+ str((end-start) / 1000000000) + ' Seconds')
     # verify([0,1,3,2,4,5], 70, graph)
     
     # print(graph)
@@ -58,6 +63,5 @@ def verify(path, weight, graph):
                 if e == v:
                     total += w
             u = v
-    print(total)
-    print(weight == total)
+    print("Total: ", total)
 main()

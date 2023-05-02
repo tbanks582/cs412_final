@@ -13,15 +13,13 @@ def main():
         u, v, w = [int(x) for x in input().split()]
         graph[u].add((v,w))
 
-
-
     longest_len = -1
     longest = []
     start = time.time_ns()
 
-    x = 10000
+    x = 1000
     for i in range(x):
-        path = generate_random_path(graph, None)
+        path = generate_random_path(graph, None, None)
         length = calculate_path_length(graph, path)
 
         if length > longest_len:
@@ -32,7 +30,7 @@ def main():
         if len(path) < 2:
                 continue
 
-        annealed_path = annealing_longest_path(graph, 1000, .85, 100, path) 
+        annealed_path = annealing_longest_path(graph, 1000, .99, 100, path) 
         annealed_length = calculate_path_length(graph, annealed_path)
 
         if path != annealed_path:
@@ -42,13 +40,14 @@ def main():
         
     print("Longest Path: ", longest)
     print("Path Cost: ", longest_len)
+    print(len(longest))
     
     end = time.time_ns()
-    print('Ran ' + str(x) + ' random paths in '+ str(end-start) + ' NS')
+    print('Ran ' + str(x) + ' random paths in '+ str(((end-start) / 1000000000)) + ' Seconds')
 
 
 # Returns a random path of random length from the given graph
-def generate_random_path(graph, start):
+def generate_random_path(graph, start, old_path):
     marked = set()
 
     if start == None:
@@ -64,6 +63,11 @@ def generate_random_path(graph, start):
     marked.add(next_node)
 
     available = {edge[0] for edge in graph[next_node]}
+
+    if old_path != None:
+        for vert in available.copy():
+            if vert in old_path:
+                available.remove(vert)
 
     while next_node is not None:
         
@@ -140,7 +144,7 @@ def random_vertex_path(graph, path):
         new_path[swap_index] = neighbor[0]
         return new_path
 
-    new_path = generate_random_path(graph, vertex)
+    new_path = generate_random_path(graph, vertex, path)
     
     return new_path
 
