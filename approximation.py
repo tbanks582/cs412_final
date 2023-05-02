@@ -3,47 +3,48 @@ from math import exp
 import time
 
 def main():
-    num_vertices, num_edges = [int(x) for x in input().split()]
+    # num_vertices, num_edges = [int(x) for x in input().split()]
+    num_vertices = int(input())
     graph = {}
     for i in range(num_vertices):
         graph[i + 1] = set()
-    for _ in range(num_edges):
+    for i in range(90):
+
         u, v, w = [int(x) for x in input().split()]
         graph[u].add((v,w))
+
+
 
     longest_len = -1
     longest = []
     start = time.time_ns()
-    for _ in range(1000):
+
+    x = 10000
+    for i in range(x):
         path = generate_random_path(graph, None)
         length = calculate_path_length(graph, path)
 
         if length > longest_len:
             longest_len = length
-        print("Orignial Path: ", path)
-        print("Original Path Length: ", length)
+            longest = path
+        # print("Orignial Path: ", path)
+        # print("Original Path Length: ", length)
         if len(path) < 2:
                 continue
-        for _ in range(1000):
-            annealed_path = annealing_longest_path(graph, 1000, .80, 100, path) 
-            annealed_path += generate_random_path(graph, annealed_path[-1])[1::]
-            # print(annealed_path)
-            annealed_length = calculate_path_length(graph, annealed_path)
-            # print('length = ', length, 'annealed length = ', annealed_length)
 
-            if path != annealed_path:
-                print("Better Path found: ", annealed_path)
-                print("Better Path Length: ", annealed_length)
+        annealed_path = annealing_longest_path(graph, 1000, .85, 100, path) 
+        annealed_length = calculate_path_length(graph, annealed_path)
 
-                if annealed_length > longest_len:
-                    longest_len = annealed_length
-                    longest = annealed_path
-            print("\n")
+        if path != annealed_path:
+            if annealed_length > longest_len:
+                longest_len = annealed_length
+                longest = annealed_path
+        
     print("Longest Path: ", longest)
     print("Path Cost: ", longest_len)
     
     end = time.time_ns()
-    print('time elapsed: ' + str(end-start) + ' NS')
+    print('Ran ' + str(x) + ' random paths in '+ str(end-start) + ' NS')
 
 
 # Returns a random path of random length from the given graph
