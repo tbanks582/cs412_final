@@ -2,10 +2,10 @@
 # author: Trevor Nicholas, Kiavash Seraj
 Final project for Applied Algorithms (cs412)
 
-#Longest Path NP-Complete problem project
+# Longest Path NP-Complete problem project
 
 
-##Input/Output Format:
+## Input/Output Format:
 
 The first line of input is the number of vertexes, then the number of edges to add. The rest of the input encodes edges as u,v,w.\
 The first line of the output prints the graph, second prints the solution and cost, third prints the result of verification, fourth prints wall clock time using python's time.time_ns().
