@@ -230,4 +230,4 @@ def annealing_longest_path(graph, inital_temp, cool_rate, stop_temp, path):
     return best_path
 
 
-altMain(3)
+main()
