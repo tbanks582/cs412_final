@@ -7,8 +7,8 @@ longest path NP-Complete problem
 
 input/output format:
 
-The first line is the total flow of the network. Then, each edge that is part of the min cut is printed on a separate line. 
-First line of the output has the cost of the longest path, and the second line prints the path itself.
+The first line of input is the number of vertexes, then the number of edges to add. The rest of the input encodes edges as u,v,w.
+First line of the output prints the graph, second prints the solution and cost, third prints the result of verification, fourth prints wall clock time using python's time.time_ns().
 
 sample input:\
 6 9 \
