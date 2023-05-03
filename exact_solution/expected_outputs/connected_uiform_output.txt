@@ -1,0 +1,50 @@
+for input size:  1
+the exact solution is:  [1]  which has a cost:  0
+verification:  True
+time elapsed:  0.0 s
+
+for input size:  2
+the exact solution is:  [2, 1]  which has a cost:  1
+verification:  True
+time elapsed:  0.0 s
+
+for input size:  3
+the exact solution is:  [3, 2, 1]  which has a cost:  2
+verification:  True
+time elapsed:  0.0 s
+
+for input size:  4
+the exact solution is:  [4, 3, 2, 1]  which has a cost:  3
+verification:  True
+time elapsed:  0.0 s
+
+for input size:  5
+the exact solution is:  [5, 4, 3, 2, 1]  which has a cost:  4
+verification:  True
+time elapsed:  0.0 s
+
+for input size:  6
+the exact solution is:  [6, 5, 4, 3, 2, 1]  which has a cost:  5
+verification:  True
+time elapsed:  0.0010001 s
+
+for input size:  7
+the exact solution is:  [7, 6, 5, 4, 3, 2, 1]  which has a cost:  6
+verification:  True
+time elapsed:  0.0080019 s
+
+for input size:  8
+the exact solution is:  [8, 7, 6, 5, 4, 3, 2, 1]  which has a cost:  7
+verification:  True
+time elapsed:  0.0800175 s
+
+for input size:  9
+the exact solution is:  [9, 8, 7, 6, 5, 4, 3, 2, 1]  which has a cost:  8
+verification:  True
+time elapsed:  1.728018 s
+
+for input size:  10
+the exact solution is:  [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]  which has a cost:  9
+verification:  True
+time elapsed:  16.3300281 s
+
