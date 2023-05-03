@@ -1,0 +1,1 @@
+I wanted to keep this directory open so I put a file in it & I don't know how else to do this given git's behavior with empty directories
