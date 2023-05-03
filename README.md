@@ -20,12 +20,12 @@ sample input:
 3 5 10\
 5 4 10\
 4 6 15\
-5 6 20\
+5 6 20
 
 sample output (exact solution):
 given the graph g:  {1: {(2, 20), (3, 10)}, 2: {(4, 5), (3, 10)}, 3: {(5, 10)}, 4: {(3, 15), (6, 15)}, 5: {(4, 10), (6, 20)}, 6: set()}\
 the exact solution is:  [1, 2, 4, 3, 5, 6]  which has a cost:  70\
 verification:  True\
-time elapsed:  0.0 s\
+time elapsed:  0.0 s
 
 
