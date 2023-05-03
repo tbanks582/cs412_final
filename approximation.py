@@ -8,46 +8,44 @@ def main():
     for i in range(num_vertices):
         graph[i + 1] = set()
     for _ in range(num_edges):
+
         u, v, w = [int(x) for x in input().split()]
         graph[u].add((v,w))
 
     longest_len = -1
     longest = []
     start = time.time_ns()
-    for _ in range(1000):
-        path = generate_random_path(graph, None)
+
+    x = 1000
+    for i in range(x):
+        path = generate_random_path(graph, None, None)
         length = calculate_path_length(graph, path)
 
         if length > longest_len:
             longest_len = length
-        print("Orignial Path: ", path)
-        print("Original Path Length: ", length)
+            longest = path
+        # print("Orignial Path: ", path)
+        # print("Original Path Length: ", length)
         if len(path) < 2:
                 continue
-        for _ in range(1000):
-            annealed_path = annealing_longest_path(graph, 1000, .80, 100, path) 
-            annealed_path += generate_random_path(graph, annealed_path[-1])[1::]
-            # print(annealed_path)
-            annealed_length = calculate_path_length(graph, annealed_path)
-            # print('length = ', length, 'annealed length = ', annealed_length)
 
-            if path != annealed_path:
-                print("Better Path found: ", annealed_path)
-                print("Better Path Length: ", annealed_length)
+        annealed_path = annealing_longest_path(graph, 1000, .95, 100, path) 
+        annealed_length = calculate_path_length(graph, annealed_path)
 
-                if annealed_length > longest_len:
-                    longest_len = annealed_length
-                    longest = annealed_path
-            print("\n")
+        if path != annealed_path:
+            if annealed_length > longest_len:
+                longest_len = annealed_length
+                longest = annealed_path
+        
     print("Longest Path: ", longest)
     print("Path Cost: ", longest_len)
     
     end = time.time_ns()
-    print('time elapsed: ' + str(end-start) + ' NS')
+    print('Ran ' + str(x) + ' random paths in '+ str(((end-start) / 1000000000)) + ' Seconds')
 
 
 # Returns a random path of random length from the given graph
-def generate_random_path(graph, start):
+def generate_random_path(graph, start, old_path):
     marked = set()
 
     if start == None:
@@ -63,6 +61,11 @@ def generate_random_path(graph, start):
     marked.add(next_node)
 
     available = {edge[0] for edge in graph[next_node]}
+
+    if old_path != None:
+        for vert in available.copy():
+            if vert in old_path:
+                available.remove(vert)
 
     while next_node is not None:
         
@@ -139,54 +142,8 @@ def random_vertex_path(graph, path):
         new_path[swap_index] = neighbor[0]
         return new_path
 
-    new_path = generate_random_path(graph, vertex)
+    new_path = generate_random_path(graph, vertex, path)
     
-    return new_path
-
-
-# swap random verticies until a new path can be constructed
-def random_swap_verticies(graph, path):
-    available = path.copy()
-    new_path = path.copy()
-
-    # vertex before the one that will be switched. Switch will occur with on of this vertex's neighbors
-    vertex = random.choice(path)
-
-    # index = path.index(vertex)
-    # trunc = generate_random_path(graph, vertex)
-    # new = path[0::index] + trunc
-
-    while len(graph[vertex]) == 0:
-        available.remove(vertex)
-
-        if len(available) == 0:
-            return new_path
-        vertex = random.choice(available)
-
-    # index of the vertex that will be swapped with previous's neighbor
-    swap_index = path.index(vertex) + 1
-
-    # if vertex is last in path
-    if vertex == path[-1]:
-        neighbor = random.choice(tuple(graph[path[path.index(vertex) - 1]]))
-        new_path[-1] = neighbor[0]
-        return new_path
-    
-
-    # if vertex chosen is second to last in path
-    if vertex == path[-2]:
-        neighbor = random.choice(tuple(graph[path[path.index(vertex)]]))
-        new_path[swap_index] = neighbor[0]
-        return new_path
-
-
-    for neighbor in graph[vertex]:
-        neighbor_vertex = neighbor[0]
-
-        if edge_exists(graph, neighbor_vertex, path[swap_index + 1]):
-            new_path[swap_index] = neighbor_vertex
-            
-            return new_path
     return new_path
 
 
@@ -229,58 +186,5 @@ def annealing_longest_path(graph, inital_temp, cool_rate, stop_temp, path):
     return best_path
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Find the longest path by taking the a verticies heaviest edge rinse and repreat
-def longest_path_greedy(graph, start):
-    marked = set()
-    curr = start
-
-    longest_path_edges = [curr]
-    path_length = 0
-
-    while curr is not None:
-        marked.add(curr)
-        next = None
-        longest_path = float("-inf")
-
-        # check all neighbors and grab the longest one (greedy)
-        for neighbor, weight in graph[curr]:
-            if neighbor not in marked and weight > longest_path:
-                next = neighbor
-                longest_path = weight
-
-        if next is not None:
-            longest_path_edges.append(next)
-            path_length = path_length + longest_path
-        curr = next
-    
-    print("Length of the longest path is approximately ", path_length)
-
-    output = "Path was: "
-    for i in range(len(longest_path_edges)):
-        if i == len(longest_path_edges) - 1:
-            output = output + str(longest_path_edges[i])
-        else:
-            output = output + str(longest_path_edges[i]) + " => "
-    print(output)
 
 main()
