@@ -44,6 +44,50 @@ def main():
     print('Ran ' + str(x) + ' random paths in '+ str(((end-start) / 1000000000)) + ' Seconds')
 
 
+
+def altMain(k):
+    for n in range(1, k):
+        graph = {}
+        for i in range(n):
+            graph[i+1] = set()
+        for u in graph:
+            for v in graph.keys():
+                if u!=v:
+                    graph[u].add((v, 1))
+                    # graph[v].add(u, 1)
+        
+    longest_len = -1
+    longest = []
+    start = time.time_ns()
+
+    x = 1000
+    for i in range(x):
+        path = generate_random_path(graph, None, None)
+        length = calculate_path_length(graph, path)
+
+        if length > longest_len:
+            longest_len = length
+            longest = path
+        # print("Orignial Path: ", path)
+        # print("Original Path Length: ", length)
+        if len(path) < 2:
+                continue
+
+        annealed_path = annealing_longest_path(graph, 1000, .95, 100, path) 
+        annealed_length = calculate_path_length(graph, annealed_path)
+
+        if path != annealed_path:
+            if annealed_length > longest_len:
+                longest_len = annealed_length
+                longest = annealed_path
+        
+    print("Longest Path: ", longest)
+    print("Path Cost: ", longest_len)
+    
+    end = time.time_ns()
+    print('Ran ' + str(x) + ' random paths in '+ str(((end-start) / 1000000000)) + ' Seconds')
+
+
 # Returns a random path of random length from the given graph
 def generate_random_path(graph, start, old_path):
     marked = set()
@@ -186,5 +230,4 @@ def annealing_longest_path(graph, inital_temp, cool_rate, stop_temp, path):
     return best_path
 
 
-
-main()
+altMain(3)
