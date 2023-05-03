@@ -28,4 +28,8 @@ the exact solution is:  [1, 2, 4, 3, 5, 6]  which has a cost:  70\
 verification:  True\
 time elapsed:  0.0 s
 
+## Instructions
 
+- Instructions for usage of the exact solution can be found in exact_solution/README.md
+- Approximation algorithm follows the same input scheme and can write to a file.
+- Presentation .pptx can be found in /presentation
