@@ -7,7 +7,7 @@ longest path NP-Complete problem
 
 input/output format:
 
-The first line of input is the number of vertexes, then the number of edges to add. The rest of the input encodes edges as u,v,w.
+The first line of input is the number of vertexes, then the number of edges to add. The rest of the input encodes edges as u,v,w.\
 First line of the output prints the graph, second prints the solution and cost, third prints the result of verification, fourth prints wall clock time using python's time.time_ns().
 
 sample input:\
