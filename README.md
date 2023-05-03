@@ -31,5 +31,5 @@ time elapsed:  0.0 s
 ## Instructions
 
 - Instructions for usage of the exact solution can be found in exact_solution/README.md
-- Approximation algorithm follows the same input scheme and can write to a file.
+- Approximation algorithm follows the same input scheme as the exact solution and can write to a file.
 - Presentation .pptx can be found in /presentation
